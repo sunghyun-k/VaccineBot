@@ -1,0 +1,4649 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <title>네이버 플레이스</title>
+    <meta charset="utf-8"/>
+    <meta httpequiv="x-ua-compatible" content="ie=edge"/>
+    <meta id="_viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, shrink-to-fit=no viewport-fit=cover"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <link rel="icon" type="image/png" href=https://m-place.pstatic.net/assets/shared/images/favicon-72.png/>
+    <link rel="icon" type="image/png" sizes="96x96" href=https://m-place.pstatic.net/assets/shared/images/favicon-96.png/>
+    <link rel="icon" type="image/png" sizes="144x144" href=https://m-place.pstatic.net/assets/shared/images/favicon-144.png/>
+    <link rel="icon" type="image/png" sizes="192x192" href=https://m-place.pstatic.net/assets/shared/images/favicon-192.png/>
+    <link rel="apple-touch-icon" href=https://m-place.pstatic.net/assets/shared/images/favicon-120.png/>
+    <link rel="apple-touch-icon" sizes="180x180" href=https://m-place.pstatic.net/assets/shared/images/favicon-180.png/>
+    <link rel="apple-touch-icon" sizes="152x152" href=https://m-place.pstatic.net/assets/shared/images/favicon-152.png/>
+    <link rel="apple-touch-icon" sizes="167x167" href=https://m-place.pstatic.net/assets/shared/images/favicon-167.png/>
+    <meta id="og:title" property="og:title" content="새움병원 : 네이버" data-isomorphic-meta="true"/>
+    <meta id="og:description" property="og:description" content="방문자리뷰 122 · ★4.39 · 평일 09:00 - 18:00, 점심시간 13:00~14:00,토요일 09:00 - 13:00,일요일 휴무,공휴일 휴무" data-isomorphic-meta="true"/>
+    <meta id="og:type" property="og:type" content="article" data-isomorphic-meta="true"/>
+    <meta id="og:article:author" property="og:article:author" content="네이버 플레이스" data-isomorphic-meta="true"/>
+    <meta id="og:site_name" property="og:site_name" content="네이버 플레이스" data-isomorphic-meta="true"/>
+    <meta id="og:image" property="og:image" content="https://search.pstatic.net/common/?autoRotate=true&amp;quality=100&amp;type=f640_380&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210430_59%2F1619768664339ODTSE_JPEG%2Fmsid0580vHR7EGi8cplyYPjp.jpg" data-isomorphic-meta="true"/>
+    <meta id="og:url" property="og:url" content="https://m.place.naver.com/hospital/13554953?entry=ple" data-isomorphic-meta="true"/>
+    <meta id="twitter:card" property="twitter:card" content="summary_large_image" data-isomorphic-meta="true"/>
+    <meta id="twitter:title" property="twitter:title" content="새움병원 : 네이버" data-isomorphic-meta="true"/>
+    <meta id="twitter:description" property="twitter:description" content="방문자리뷰 122 · ★4.39 · 평일 09:00 - 18:00, 점심시간 13:00~14:00,토요일 09:00 - 13:00,일요일 휴무,공휴일 휴무" data-isomorphic-meta="true"/>
+    <meta id="twitter:site" property="twitter:site" content="네이버 플레이스" data-isomorphic-meta="true"/>
+    <meta id="twitter:image" property="twitter:image" content="https://search.pstatic.net/common/?autoRotate=true&amp;quality=100&amp;type=f640_380&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210430_59%2F1619768664339ODTSE_JPEG%2Fmsid0580vHR7EGi8cplyYPjp.jpg" data-isomorphic-meta="true"/>
+</head>
+<body class="place_on_mobileweb">
+    <div id="place-style-loader">
+        <style id="944284" type="text/css" data-isomorphic-style="true">
+        :root {
+            --place-color-border1: 226, 229, 232;
+            --place-color-border2: 236, 240, 242;
+            --place-color-border3: 234, 238, 242;
+            --place-color-border4: 242, 244, 246;
+            --place-color-border5: 244, 246, 247;
+            --place-color-border6: 0, 0, 0, .02;
+            --place-color-border7: 226, 229, 232;
+            --place-color-border9: 0, 0, 1, .04;
+            --place-color-border10: 227, 230, 232;
+            --place-color-border11: 28, 185, 65;
+            --place-color-border12: 225, 225, 225;
+            --place-color-border13: 222, 224, 226;
+            --place-color-border14: 147, 199, 250;
+            --place-color-border15: 217, 218, 219;
+            --place-color-border16: 203, 222, 237;
+            --place-color-border17: 239, 241, 242;
+            --place-color-border18: 234, 235, 236;
+            --place-color-border19: 222, 224, 226;
+            --place-color-border20: 234, 235, 236;
+            --place-color-border21: 217, 218, 219;
+            --place-color-border22: 156, 165, 174;
+            --place-color-border23: 234, 238, 242;
+            --place-color-border24: 252, 244, 246;
+            --place-color-border25: 234, 238, 242;
+            --place-color-bg1: 233, 236, 239;
+            --place-color-bg2: 255, 255, 255;
+            --place-color-bg3: 248, 250, 251;
+            --place-color-bg4: 244, 247, 248;
+            --place-color-bg5: 250, 251, 252;
+            --place-color-bg6: 223, 226, 231;
+            --place-color-bg7: 0, 199, 60;
+            --place-color-bg8: 248, 250, 251;
+            --place-color-bg9: 0, 0, 0, .1;
+            --place-color-bg10: 243, 249, 254;
+            --place-color-bg11: 245, 247, 248;
+            --place-color-bg12: 159, 164, 170;
+            --place-color-bg13: 194, 201, 205;
+            --place-color-bg14: 201, 201, 202;
+            --place-color-bg15: 158, 158, 158;
+            --place-color-bg16: 233, 239, 242;
+            --place-color-bg17: 165, 173, 181;
+            --place-color-bg18: 255, 255, 255;
+            --place-color-bg19: 255, 255, 149;
+            --place-color-bg20: 252, 252, 252;
+            --place-color-bg21: 255, 255, 255;
+            --place-color-bg22: 252, 253, 253;
+            --place-color-bg23: 248, 250, 251;
+            --place-color-bg24: 248, 250, 251;
+            --place-color-bg25: 244, 247, 248;
+            --place-color-text1: 0, 0, 0;
+            --place-color-text2: 36, 36, 36;
+            --place-color-text3: 66, 66, 66;
+            --place-color-text4: 102, 102, 102;
+            --place-color-text5: 143, 143, 143;
+            --place-color-text6: 51, 51, 51;
+            --place-color-text8: 0, 207, 91;
+            --place-color-text9: 10, 190, 22;
+            --place-color-text10: 255, 87, 87;
+            --place-color-text11: 18, 110, 205;
+            --place-color-text12: 154, 154, 154;
+            --place-color-text15: 144, 144, 144;
+            --place-color-text16: 184, 184, 184;
+            --place-color-text17: 53, 62, 95;
+            --place-color-link: 0, 104, 195;
+            --place-color-link-pc: 12, 67, 183;
+            --place-color-link-visited: 153, 32, 155;
+            --place-color-bg101: 255, 255, 255;
+            --place-color-bg102: 219, 223, 227;
+            --place-color-bg103: 255, 255, 255;
+            --place-color-bg104: 238, 244, 252;
+            --place-color-bg105: 84, 84, 84;
+            --place-color-bg107: 51, 51, 51;
+            --place-color-bg108: 0, 0, 0;
+            --place-color-bg109: 172, 174, 176;
+            --place-color-bg110: 40, 57, 83;
+            --place-color-bg111: 35, 31, 32;
+            --place-color-bg112: 238, 244, 246;
+            --place-color-bg113: 56, 56, 56;
+            --place-color-bg114: 238, 244, 246;
+            --place-color-bg115: 235, 251, 246;
+            --place-color-text101: 145, 168, 194;
+            --place-color-label-bg: 229, 249, 238;
+            --place-color-ad-text: 3, 133, 255;
+            --place-color-ad-bg: 43, 152, 235;
+            --place-color-ad-label-text: 69, 108, 186;
+            --place-color-ad-label-border: 197, 212, 245;
+            --place-color-zeropay: 42, 54, 148;
+            --place-color-datalab: 30, 30, 30;
+            --place-color-filter-bg: 255, 255, 255;
+            --place-color-profile-bg: 199, 204, 208;
+            --place-color-profile-icon:255, 255, 255, 1
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root .place_apply_darkmode:not(.place_on_pcmap):not(.place_on_nmap) {
+                --place-color-border1: 44, 44, 47;
+                --place-color-border2: 70, 70, 73;
+                --place-color-border3: 79, 79, 79;
+                --place-color-border4: 70, 70, 73;
+                --place-color-border5: 70, 70, 73;
+                --place-color-border6: 0, 0, 0, .02;
+                --place-color-border7: 70, 70, 73;
+                --place-color-border9: 254, 254, 253, .04;
+                --place-color-border10: 79, 79, 79;
+                --place-color-border11: 3, 201, 91;
+                --place-color-border12: 70, 70, 73;
+                --place-color-border13: 70, 70, 73;
+                --place-color-border14: 66, 98, 123;
+                --place-color-border15: 84, 84, 87;
+                --place-color-border16: 84, 84, 87;
+                --place-color-border17: 70, 70, 73;
+                --place-color-border18: 70, 70, 73;
+                --place-color-border19: 70, 70, 73;
+                --place-color-border20: 70, 70, 73;
+                --place-color-border21: 84, 84, 87;
+                --place-color-border22: 84, 84, 87;
+                --place-color-border23: 77, 77, 80;
+                --place-color-border24: 77, 77, 80;
+                --place-color-border25: 72, 72, 76;
+                --place-color-bg1: 48, 48, 51;
+                --place-color-bg2: 57, 57, 60;
+                --place-color-bg3: 61, 61, 64;
+                --place-color-bg4: 65, 65, 68;
+                --place-color-bg5: 65, 65, 68;
+                --place-color-bg6: 165, 165, 167;
+                --place-color-bg7: 3, 201, 91;
+                --place-color-bg8: 57, 57, 60;
+                --place-color-bg9: 153, 153, 153, .1;
+                --place-color-bg10: 45, 49, 56;
+                --place-color-bg11: 65, 65, 68;
+                --place-color-bg12: 165, 165, 167;
+                --place-color-bg13: 65, 65, 68;
+                --place-color-bg14: 98, 98, 98;
+                --place-color-bg15: 98, 98, 98;
+                --place-color-bg16: 63, 63, 67;
+                --place-color-bg17: 72, 72, 75;
+                --place-color-bg18: 65, 65, 68;
+                --place-color-bg19: 66, 66, 43;
+                --place-color-bg20: 72, 72, 75;
+                --place-color-bg21: 72, 72, 75;
+                --place-color-bg22: 56, 56, 59;
+                --place-color-bg23: 65, 65, 68;
+                --place-color-bg24: 53, 53, 56;
+                --place-color-bg25: 63, 63, 66;
+                --place-color-text1: 240, 240, 242;
+                --place-color-text2: 240, 240, 242;
+                --place-color-text3: 218, 221, 224;
+                --place-color-text4: 165, 165, 167;
+                --place-color-text5: 145, 145, 146;
+                --place-color-text6: 218, 221, 224;
+                --place-color-text8: 3, 199, 90;
+                --place-color-text9: 3, 201, 91;
+                --place-color-text10: 238, 83, 83;
+                --place-color-text11: 41, 131, 225;
+                --place-color-text12: 145, 145, 146;
+                --place-color-text15: 145, 145, 146;
+                --place-color-text16: 145, 145, 146;
+                --place-color-text17: 165, 165, 167;
+                --place-color-link: 95, 165, 248;
+                --place-color-link-pc: 95, 165, 248;
+                --place-color-link-visited: 151, 119, 185;
+                --place-color-bg101: 0, 0, 0;
+                --place-color-bg102: 56, 56, 59;
+                --place-color-bg103: 125, 127, 133;
+                --place-color-bg104: 32, 32, 35;
+                --place-color-bg105: 233, 236, 239;
+                --place-color-bg107: 112, 117, 129;
+                --place-color-bg108: 101, 101, 101;
+                --place-color-bg109: 84, 86, 92;
+                --place-color-bg110: 164, 179, 196;
+                --place-color-bg111: 255, 255, 255;
+                --place-color-bg112: 48, 48, 51;
+                --place-color-bg113: 77, 80, 87;
+                --place-color-bg114: 56, 56, 59;
+                --place-color-bg115: 60, 66, 65;
+                --place-color-text101: 155, 178, 204;
+                --place-color-label-bg: 77, 77, 81;
+                --place-color-ad-text: 130, 196, 255;
+                --place-color-ad-bg: 255, 255, 255;
+                --place-color-ad-label-text: 218, 218, 219;
+                --place-color-ad-label-border: 104, 104, 104;
+                --place-color-zeropay: 255, 255, 255;
+                --place-color-datalab: 255, 255, 255;
+                --place-color-filter-bg: 53, 53, 56;
+                --place-color-profile-bg: 65, 65, 68;
+                --place-color-profile-icon:169, 175, 185, .24
+            }
+        }
+
+        .place-app-root, .place-modal-root {
+            word-break:break-all
+        }
+
+        .place-app-root img, .place-app-root svg, .place-modal-root img, .place-modal-root svg {
+            display: inline-block;
+            vertical-align:top
+        }
+
+        .place-app-root input, .place-app-root select, .place-app-root button, .place-modal-root input, .place-modal-root select, .place-modal-root button {
+            border-radius: 0;
+            -webkit-appearance:none
+        }
+
+        .place-app-root button, .place-modal-root button {
+            padding: 0;
+            border: 0;
+            background:none
+        }
+
+        .place-app-root mark, .place-modal-root mark {
+            background: none;
+            font-weight: 700;
+            color:inherit
+        }
+
+        .place-app-root button, .place-app-root [role=button], .place-modal-root button, .place-modal-root [role=button] {
+            cursor:pointer
+        }
+
+        body.place_hide_parent_layout header {
+            visibility: hidden !important;
+            overflow: hidden !important;
+            opacity: 0 !important;
+            height:0 !important
+        }
+
+        body.place_hide_parent_layout #container {
+            visibility: hidden !important;
+            overflow: hidden !important;
+            position: relative !important;
+            height: 0 !important;
+            padding:0 !important
+        }
+
+        body.place_hide_parent_layout footer {
+            display:none !important
+        }
+
+        body.place_hide_parent_layout #place-modal-root header, body.place_hide_parent_layout #modal-root header {
+            visibility: unset !important;
+            overflow: unset !important;
+            opacity: unset !important;
+            height:unset !important
+        }
+
+        #app-root {
+            opacity: 0;
+            transition:opacity .3s cubic-bezier(0.22, 0.61, 0.36, 1)
+        }
+
+        #app-root.place_didmount {
+            opacity:1
+        }
+
+        .place_section {
+            margin-top: 9px;
+            border-width: 1px 0;
+            border-style: solid;
+            border-color: #e2e5e8;
+            border-color: rgba(var(--place-color-border1), 1);
+            background-color: #fff;
+            background-color:rgba(var(--place-color-bg2), 1)
+        }
+
+        .place_section.no_margin {
+            margin-top:-1px
+        }
+
+        .place_section + .place_section.no_margin {
+            position: relative;
+            border-top-color: #ecf0f2;
+            border-top-color:rgba(var(--place-color-border2), 1)
+        }
+
+        h3.place_section_header, h2.place_section_header {
+            position: relative;
+            font-size: 1.7rem;
+            letter-spacing: -0.3px;
+            line-height: 2.2rem;
+            color: #000;
+            color:rgba(var(--place-color-text1), 1)
+        }
+
+        h2.place_section_header {
+            padding: 17px 18px 15px;
+            border-bottom: 1px solid;
+            border-color: #ecf0f2;
+            border-color:rgba(var(--place-color-border2), 1)
+        }
+
+        h2.place_section_header.type_nx {
+            padding:14px 18px 12px
+        }
+
+        h2.place_section_header.no_line {
+            border-bottom:0
+        }
+
+        h3.place_section_header {
+            padding:17px 18px 0
+        }
+
+        .place_section_count {
+            margin-left: 6px;
+            color: #0abe16;
+            color:rgba(var(--place-color-text9), 1)
+        }
+
+        .place_thumb {
+            display: block;
+            position: relative;
+            width:100%
+        }
+
+        .place_thumb::before {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 10;
+            border: 1px solid rgba(0, 0, 0, .06);
+            content: ""
+        }
+
+        .place_thumb_count {
+            display: block;
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            z-index: 20;
+            min-width: 24px;
+            height: 24px;
+            padding: 0 2px;
+            border: 1px solid rgba(7, 7, 7, .1);
+            background: rgba(0, 0, 0, .3);
+            box-sizing: border-box;
+            font-size: 1.4rem;
+            color: #fff;
+            line-height: 2.2rem;
+            text-align: center;
+            text-shadow:0 1px 1px rgba(0, 0, 0, .4)
+        }
+
+        .place_thumb_count em {
+            overflow: hidden;
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            border: 0;
+            clip:rect(0, 0, 0, 0)
+        }
+
+        .place_thumb_more {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            z-index: 20;
+            width: 27px;
+            height: 27px;
+            background:rgba(0, 0, 0, .5)
+        }
+
+        .place_thumb_more::before {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 16px;
+            height: 16px;
+            background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAABBlJREFUWAm1V01LlFEUnnFsZhxnSm1GwxDcVOugRRBJbYIiJlqKDYUbd2Krtsb8BWtRIbhIVxIEmrSJQKWVgroZRAY/RiwH81vnZT56ntf3DPf9mBkd88Dxfp17znOfc+47V7frRNxoapS+0T13UzA85NFK3+SUgam1UC/UY4zR/Bdh0BxUg2ahNhAMzJN7C4XCPtoLEbfbHYRjskAwJhHaCeQipaR/LjAFRQHa6xgcQ21oi0aVO0ylH6ymFFNJtykNTsgY/AB6XgBKbP2QBEDGCUBULz7VkH0GFjWhtRpiLOxJq9qrB2DgS8Z+2nCNRZmXGjDWTI3qzLRgGZBu3qByt8izsbHRc3R0NHZ8fDy2srLyGPb6jSsHwBLHNtQp7erqChweHn6Afurr62O1O/l0+/3+W9AHPp/vocfjaVPtWAdXUDC6sA9Va0NyR8dCNbp6v3ZpaemJ7E0mk88wT6qtPsPd3d2t6+vrcdouLy/3wsYPrXFCi3ldJHBtf39/sL293YniwsDAwK9MJjMB/T40NDSFnU6pyw8ODu7ncjkWt02saIUBgvPFYrFm5O3H3t7e53A4HMIcTyhsECTHddB6qA9Kf5xTWW3EOJhKpd5YGcC8ja4GzPG0enDk9qdQvLOzM9zU1HTZWBcQbGlfPz8/fwctwRBIg+xD/0wAaBzo7OxskeDZbDadz+cP6NACgpXM04a2trYGsKwtLi6+wJggr1YLoDkajbZKcOTt98jIyP3p6ennKojGxkamKsBg6XT6nQQjiLm5uVeYb5U59E/PQEdHxw01+Pj4+F044PUKzszMRAXE9vb2SCQSuaYE18DONyOoNjk52VMVgN3d3Slu5MmN4MwpC4saUEGgOBMScGFh4SXWIyqgswAoFoxDcP2LBeeseBsI2GuJRCKGNbJEsNaU8FpWTEERAAruj3JyCQ4fuhRBoOKfIh1/jaJjLRAcbwSL8vLm5ub7szBQvLOjo6P34IAOrcExpQtBcM03PDzcwtYYc55CEJwLVwUAG5ugvNfiEF2bcI2BCIStass+WSiyin7JFJA2J6ETOj+NqMHFnqCoFcUJAH8kKOrv+cnM6f8SvPgpu4sATD8eyFuq7I7qFk0xVBdCE18nFylk0xEEGeBzWTOezqSOOaUSHNfZ0kHJfy6wVkoYlIejenBtbfVC52Ikj1H+ZlMz+LS+1TRtIh6P82YQRDXKoDyIF19XYRzDE7EhwrSc3oc33Bc8ox7hLfAVtXEom6ppsd/t9Xpv1tXV3V5bW+tta2v7CD8akVmFjOiKtLB1hUKhqNXoPGMAKabUCQB962mZnZ19jT7pd4E+Nx6TOiCOzyqynz5WV1eT2E8Qpi+Y1aekQvLmlC7rnkpjOQALWi/qSk4rrVcKWGpdgLj+ATmPA0yWJNGtAAAAAElFTkSuQmCC) no-repeat 0 0;
+            background-size: 16px;
+            content: ""
+        }
+
+        .place_thumb_event {
+            position: absolute;
+            top: 0;
+            right: 0;
+            z-index:20
+        }
+
+        .place_thumb_top_left_label {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index:20
+        }
+
+        .place_thumb_top_left_label .place_icon_new_opening {
+            width: 46px;
+            height:20px
+        }
+
+        .place_thumb_icon_video {
+            position: absolute;
+            bottom: 3px;
+            left: 5px;
+            z-index:20
+        }
+
+        .place_thumb_icon_video::before {
+            display: inline-block;
+            width: 28px;
+            height: 32px;
+            background: url(data:image/png;base64,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) no-repeat 0 0;
+            background-size: 28px 32px;
+            vertical-align: top;
+            content: ""
+        }
+
+        .place_thumb_icon_view360 {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            z-index:20
+        }
+
+        .place_thumb_icon_view360::before {
+            display: inline-block;
+            width: 41px;
+            height: 28px;
+            background: url(data:image/png;base64,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) no-repeat 0 0;
+            background-size: 41px 28px;
+            vertical-align: top;
+            content: ""
+        }
+
+        .place_thumb_running_time {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            z-index: 20;
+            padding: 0 4px;
+            background: rgba(0, 0, 0, .3);
+            font-size: 1.4rem;
+            color: #fff;
+            line-height: 2.4rem;
+            text-shadow:0 1px 1px 0 rgba(0, 0, 0, .4)
+        }
+
+        .place_thumb_streetview {
+            position: absolute;
+            bottom: 6px;
+            left: 9px;
+            z-index:20
+        }
+
+        .place_thumb_streetview::before {
+            display: inline-block;
+            width: 21px;
+            height: 24px;
+            background: url("data:image/png;base64,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") no-repeat 0 0;
+            background-size: 21px 24px;
+            vertical-align: top;
+            content: ""
+        }
+
+        .place_dimmed_bg {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 7000;
+            background:rgba(0, 0, 0, .6)
+        }
+
+        .place_dimmed_content {
+            position: fixed;
+            z-index:7000
+        }
+
+        .place_blind {
+            overflow: hidden;
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            border: 0;
+            clip:rect(0, 0, 0, 0)
+        }
+
+        .place_fixed_maintab {
+            top: 48px;
+            right: 0;
+            left: 0;
+            z-index:10
+        }
+
+        .place_fixed_maintab.place_stuck {
+            position: fixed;
+            z-index:5000
+        }
+
+        .place_fixed_subtab {
+            top: 94px;
+            right: 0;
+            left: 0;
+            z-index:10
+        }
+
+        .place_fixed_subtab.place_stuck {
+            position: fixed;
+            z-index:4990
+        }
+
+        .place_label_bg {
+            fill: #e5f9ee;
+            fill:rgba(var(--place-color-label-bg), 1)
+        }
+
+        .place_icon_face_border {
+            fill: #b8b8b8;
+            fill:rgba(var(--place-color-text16), 1)
+        }
+
+        .place_icon_facility_border {
+            fill: #666;
+            fill:rgba(var(--place-color-text4), 1)
+        }
+
+        .place_icon_100years {
+            fill: #231f20;
+            fill:rgba(var(--place-color-bg111), 1)
+        }
+
+        .place_icon_zeropay {
+            fill: #2a3694;
+            fill:rgba(var(--place-color-zeropay), 1)
+        }
+
+        .place_icon_datalab {
+            fill: #1e1e1e;
+            fill:rgba(var(--place-color-datalab), 1)
+        }
+
+        .place_ad_label_border {
+            fill: #c5d4f5;
+            fill:rgba(var(--place-color-ad-label-border), 1)
+        }
+
+        .place_ad_label_text {
+            fill: #456cba;
+            fill:rgba(var(--place-color-ad-label-text), 1)
+        }
+
+        .place_profile_bg {
+            fill: #c7ccd0;
+            fill:rgba(var(--place-color-profile-bg), 1)
+        }
+
+        .place_profile_icon {
+            fill: #fff;
+            fill:rgba(var(--place-color-profile-icon))
+        }
+
+        @font-face {
+            font-family: "NanumSquareLight";
+            src: url("/assets/shared/fonts/NanumSquareLight.ttf") format("truetype")
+        }
+
+        @font-face {
+            font-family: "NanumSquare";
+            src: url("/assets/shared/fonts/NanumSquareRegular.ttf") format("truetype")
+        }
+
+        @font-face {
+            font-family: "NanumSquareBold";
+            src: url("/assets/shared/fonts/NanumSquareBold.ttf") format("truetype")
+        }
+
+        @font-face {
+            font-family: "NanumSquareExtraBold";
+            src: url("/assets/shared/fonts/NanumSquareExtraBold.ttf") format("truetype")
+        }
+        </style>
+        <style id="5ab2f8" type="text/css" data-isomorphic-style="true">
+        {
+            word-break:break-all
+        }
+
+        html {
+            font-size: 10px;
+            line-height:10px
+        }
+
+        body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, table, th, td, form, fieldset, legend, input, textarea, button, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, audio, video {
+            margin: 0;
+            padding:0
+        }
+
+        body, input, textarea, select, table, button, code {
+            font-family: -apple-system, BlinkMacSystemFont, helvetica, Apple SD Gothic Neo, sans-serif;
+            font-size: 1.6rem;
+            line-height:2rem
+        }
+
+        body {
+            color: #000;
+            color: rgba(var(--place-color-text1), 1);
+            word-break: break-all;
+            word-wrap: break-word;
+            -webkit-text-size-adjust:none
+        }
+
+        img, fieldset {
+            border:0
+        }
+
+        ol, ul {
+            list-style:none
+        }
+
+        i, em, address, cite, dfn {
+            font-style:normal
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+            -webkit-tap-highlight-color:rgba(0, 0, 0, .1)
+        }
+
+        a, button {
+            cursor:pointer
+        }
+
+        table {
+            border-collapse: collapse;
+            word-break:break-word
+        }
+
+        table caption {
+            display:none !important
+        }
+
+        hr {
+            display:none !important
+        }
+
+        img, svg {
+            display: inline-block;
+            vertical-align:top
+        }
+
+        input, select, button {
+            border-radius: 0;
+            -webkit-appearance:none
+        }
+
+        button {
+            padding: 0;
+            border: 0;
+            background:none
+        }
+
+        mark {
+            background: none;
+            font-weight: 700;
+            color:inherit
+        }
+
+        button, [role=button] {
+            cursor:pointer
+        }
+
+        html, body, #app-root {
+            height:100%
+        }
+
+        body {
+            background-color: #e9ecef;
+            background-color:rgba(var(--place-color-bg1), 1)
+        }
+
+        body::-webkit-scrollbar {
+            width: 6px;
+            height:6px
+        }
+
+        body::-webkit-scrollbar-thumb {
+            border-radius: 3px;
+            background:#c4c6c8
+        }
+
+        body::-webkit-scrollbar-track-piece {
+            background: #e9ecef;
+            background:rgba(var(--place-color-bg1), 1)
+        }
+
+        body.place_hide_parent_layout #app-root {
+            visibility: hidden !important;
+            overflow: hidden !important;
+            position: relative;
+            height: 0 !important;
+            padding:0 !important
+        }
+
+        body.place_on_nmap {
+            background-color:transparent
+        }
+
+        body.place_on_nmap .place_detail_wrapper {
+            background-color:#e9ecef
+        }
+
+        body.place_on_nmap button:focus, body.place_on_nmap [role=button]:focus {
+            outline:none
+        }
+
+        body.place_on_pcmap .spi_default {
+            z-index:3000
+        }
+
+        body.place_on_pcmap .spi_lst .spi_lst_release {
+            width:270px !important
+        }
+
+        body.place_on_pcmap .spi_lst .spi_lst_release a.spi_input_copyurl {
+            width:155px !important
+        }
+
+        body.place_on_pcmap .spi_lst .spi_lst_release .spi_lnk_copyurl {
+            width:259px !important
+        }
+
+        body.place_on_pcmap .spi_lst .spi_lst_release::after {
+            width: 280px !important
+        }
+        </style>
+        <style id="c0c766" type="text/css" data-isomorphic-style="true">
+        ._1SV-R {
+            display: flex;
+            align-items: center;
+            justify-content:center
+        }
+
+        ._1SV-R ._2cu7P {
+            display: inline-block;
+            opacity: 0;
+            background: #00c73c;
+            background: rgba(var(--place-color-bg7), 1);
+            animation:_2ammi .5s cubic-bezier(0.22, 0.61, 0.36, 1) infinite alternate
+        }
+
+        ._1SV-R ._2cu7P + ._2cu7P {
+            animation-delay:.2s
+        }
+
+        ._1SV-R ._2cu7P + ._2cu7P + ._2cu7P {
+            animation-delay:.4s
+        }
+
+        ._1SV-R._1Q6j_ {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 7000;
+            background:rgba(255, 255, 255, .6)
+        }
+
+        @keyframes _2ammi {
+            0% {
+                opacity: 0;
+                transform:scale(0)
+            }
+
+            100% {
+                opacity: 1;
+                transform: scale(1)
+            }
+        }
+        </style>
+        <style id="14522b" type="text/css" data-isomorphic-style="true">
+        ._3T5PD {
+            display: flex;
+            overflow: hidden;
+            position: fixed;
+            top: 0;
+            right: 0;
+            left: 0;
+            z-index: 5000;
+            height: 48px;
+            background: #00c73c;
+            background:rgba(var(--place-color-bg7), 1)
+        }
+
+        ._3T5PD.hide {
+            visibility: hidden;
+            opacity:0
+        }
+
+        ._3T5PD.hide ._2msz7 {
+            opacity: 0;
+            transform:translateY(20px)
+        }
+
+        ._3T5PD.show {
+            visibility: visible;
+            opacity:1
+        }
+
+        ._3T5PD.show ._2msz7 {
+            opacity: 1;
+            transform:translateY(0)
+        }
+
+        ._3nUBc {
+            position: relative;
+            width:48px
+        }
+
+        ._3nUBc ._1vnGB {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            fill: #fff;
+            width: 21px;
+            height:18px
+        }
+
+        ._3nUBc + ._2msz7 {
+            padding-left:0
+        }
+
+        ._2hme9 {
+            position: relative;
+            padding: 0 10px;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: -0.2px;
+            line-height:48px
+        }
+
+        ._2hme9 ._1zH46 {
+            display: inline-block;
+            margin: 18px 0 0 4px;
+            padding: 0 3px;
+            border-radius: 3px;
+            background: #fff;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #0abe16;
+            color: rgba(var(--place-color-text9), 1);
+            line-height: 1.4rem;
+            vertical-align:top
+        }
+
+        ._2hme9:last-child {
+            margin-right:8px
+        }
+
+        ._2hme9 + ._2hme9::before {
+            position: absolute;
+            top: 18px;
+            left: 0;
+            width: 1px;
+            height: 13px;
+            background: rgba(255, 255, 255, .2);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._2msz7 {
+            display: block;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            flex: 1;
+            padding: 0 18px;
+            font-size: 2rem;
+            font-weight: 600;
+            color: #fff;
+            line-height: 48px;
+            transition-duration: .3s;
+            transition-property:opacity, transform
+        }
+
+        ._1nU3J {
+            width: 60px;
+            font-size: 2.1rem;
+            color: #fff;
+            line-height: 48px;
+            text-align: center
+        }
+        </style>
+        <style id="364c67" type="text/css" data-isomorphic-style="true">
+        ._1_K3a {
+            position:relative
+        }
+
+        .g3Iyq {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 5000;
+            width: 48px;
+            height:48px
+        }
+
+        .g3Iyq .yKPQR {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            fill: #fff;
+            width: 21px;
+            height:18px
+        }
+
+        .Xw8gb {
+            position: absolute;
+            top: 0;
+            right: 0;
+            z-index: 5000;
+            width: 60px;
+            font-size: 2.1rem;
+            color: #fff;
+            line-height: 48px;
+            text-align: center
+        }
+        </style>
+        <style id="41d4b8" type="text/css" data-isomorphic-style="true">
+        ._3eHVS {
+            display: flex;
+            position: relative;
+            height: 187px;
+            background: #fff;
+            background:rgba(var(--place-color-bg101), 1)
+        }
+
+        ._3eHVS .Y8J3x {
+            overflow: hidden;
+            flex: 1;
+            align-items:center
+        }
+
+        ._3eHVS > .Y8J3x:nth-of-type(2) {
+            flex-direction:column
+        }
+
+        ._3eHVS .Y8J3x + .Y8J3x {
+            margin-left:1px
+        }
+
+        ._3eHVS .biwdu {
+            display: flex;
+            overflow: hidden;
+            align-items: center;
+            height:93px
+        }
+
+        ._3eHVS .biwdu .Y8J3x {
+            height:100%
+        }
+
+        ._3eHVS .biwdu + .biwdu {
+            margin-top:1px
+        }
+
+        ._3eHVS::before, ._3eHVS::after {
+            position: absolute;
+            right: 0;
+            left: 0;
+            z-index: 10;
+            height: 1px;
+            background: rgba(0, 0, 0, .08);
+            content: ""
+        }
+
+        ._3eHVS::before {
+            top:0
+        }
+
+        ._3eHVS::after {
+            bottom:0
+        }
+
+        ._3eHVS.W3koY .biwdu + .biwdu .place_thumb::after {
+            display: none
+        }
+        </style>
+        <style id="5c152a" type="text/css" data-isomorphic-style="true">
+        ._1ZDCY {
+            height:100%
+        }
+
+        ._1ZDCY .place_thumb {
+            height:100%
+        }
+
+        ._1ZDCY .place_thumb::before {
+            content:none
+        }
+
+        ._1ZDCY .place_thumb .uxDFa {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, .3);
+            font-size: 1.3rem;
+            color: #fff;
+            letter-spacing: -0.3px;
+            line-height:1.8rem
+        }
+
+        ._1ZDCY .place_thumb .uxDFa ._3hgby {
+            fill: #fff;
+            width: 19px;
+            height: 15px;
+            margin:2px auto 5px
+        }
+
+        ._1ZDCY .place_thumb .uxDFa ._31Bqg {
+            fill: #fff;
+            width: 13px;
+            height: 13px;
+            margin:4px 0 0 8px
+        }
+
+        ._1ZDCY .place_thumb .uxDFa._2A8h7 {
+            display: block;
+            top: auto;
+            right: 8px;
+            bottom: 8px;
+            left: auto;
+            padding: 2px 7px 2px 6px;
+            background: rgba(0, 0, 0, .5);
+            font-size: 1.4rem;
+            line-height:2rem
+        }
+
+        ._1ZDCY .place_thumb .uxDFa._2A8h7 ._31Bqg {
+            width: 7px;
+            height: 7px;
+            margin:6px 0 0 0
+        }
+
+        ._1ZDCY .place_thumb .uxDFa._2A8h7 em + ._31Bqg {
+            margin:6px 0 0 4px
+        }
+
+        ._1ZDCY .place_thumb .uxDFa._2A8h7 ._31Bqg + em {
+            margin-left:4px
+        }
+
+        ._1ZDCY .place_thumb._2SYdz:nth-child(2) {
+            flex: 0 0 auto;
+            width:66.33%
+        }
+
+        ._1ZDCY .place_thumb._2cCeJ::after {
+            display: block;
+            position: absolute;
+            top: 0;
+            right: 0;
+            left: 0;
+            height: 93px;
+            background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
+            content: ""
+        }
+        </style>
+        <style id="dde092" type="text/css" data-isomorphic-style="true">
+        .cb7hz {
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            background-size: cover
+        }
+        </style>
+        <style id="00bc7d" type="text/css" data-isomorphic-style="true">
+        .place_section.GCwOh {
+            position: relative;
+            border-top:0
+        }
+
+        ._2jQ0s {
+            padding: 16px 18px 2px
+        }
+        </style>
+        <style id="2a673f" type="text/css" data-isomorphic-style="true">
+        ._3XpyR {
+            padding-bottom: 14px;
+            border-bottom: 1px solid;
+            text-align: center;
+            border-color: #ecf0f2;
+            border-color:rgba(var(--place-color-border2), 1)
+        }
+
+        ._3XpyR._2QiHE {
+            padding: 18px 18px 16px;
+            border-bottom: 0;
+            text-align:left
+        }
+
+        ._1_hm2 {
+            line-height:2.5rem
+        }
+
+        ._1_hm2 ._3XamX {
+            margin-right: 6px;
+            font-size: 2.1rem;
+            font-weight: 500;
+            color: #000;
+            color:rgba(var(--place-color-text1), 1)
+        }
+
+        ._1_hm2 ._3ocDE {
+            display: inline-block;
+            font-size: 1.5rem;
+            vertical-align: top;
+            color: #8f8f8f;
+            color:rgba(var(--place-color-text5), 1)
+        }
+
+        ._1kUrA ._1Y6hi {
+            display: inline-block;
+            position:relative
+        }
+
+        ._1kUrA ._1Y6hi a {
+            color: #0068c3;
+            color:rgba(var(--place-color-link), 1)
+        }
+
+        ._1kUrA ._1Y6hi + ._1Y6hi::before {
+            display: inline-block;
+            width: 3px;
+            height: 3px;
+            margin: 8px 7px 0;
+            background: #eaebec;
+            background: rgba(var(--place-color-border18), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._1kUrA ._1Y6hi._1A8_M {
+            color: #8f8f8f;
+            color:rgba(var(--place-color-text5), 1)
+        }
+
+        ._1kUrA ._1Y6hi._1A8_M ._2XLwD {
+            fill: #fc4c4e;
+            width: 14px;
+            height: 14px;
+            margin:3px 3px 0 0
+        }
+
+        ._1kUrA ._1Y6hi._1A8_M em {
+            font-weight: 600;
+            color: #242424;
+            color:rgba(var(--place-color-text2), 1)
+        }
+
+        ._1kUrA:not(:empty) {
+            margin-top:3px
+        }
+
+        ._2GxAv {
+            margin-top: 2px;
+            color:#8452c7
+        }
+
+        ._2GxAv._2c2Tz {
+            color:#007666
+        }
+
+        ._1paME {
+            margin-top: 3px;
+            font-size: 1.5rem;
+            line-height: 2.2rem;
+            color: #666;
+            color:rgba(var(--place-color-text4), 1)
+        }
+
+        ._1paME .yFZvB {
+            display: inline-block;
+            vertical-align:top
+        }
+
+        ._1paME ._2XLwD {
+            margin:8px 6px 0
+        }
+
+        ._1paME ._3uRXw::before {
+            display: inline-block;
+            width: 3px;
+            height: 3px;
+            margin: 9px 7px 0;
+            border-radius: 50%;
+            background: #eaebec;
+            background: rgba(var(--place-color-border18), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._13Skp {
+            margin-top: 4px;
+            font-size: 1.5rem;
+            color: #666;
+            color:rgba(var(--place-color-text4), 1)
+        }
+
+        ._13Skp ._3mFcg + ._3mFcg::before {
+            display: inline-block;
+            width: 3px;
+            height: 3px;
+            margin: 8px 7px 0;
+            border-radius: 50%;
+            background: #e0e0e0;
+            vertical-align: top;
+            content: ""
+        }
+
+        ._13Skp ._3bWpD {
+            display: inline-block;
+            margin: 7px 0 0 7px;
+            vertical-align:top
+        }
+
+        ._13Skp ._3bWpD.YBYr4 ._2btWj:first-child {
+            background:#38bff1
+        }
+
+        ._13Skp ._3bWpD._1934- ._2btWj:nth-child(-n + 2) {
+            background: #00c73c;
+            background:rgba(var(--place-color-bg7), 1)
+        }
+
+        ._13Skp ._3bWpD.lCY4n ._2btWj:nth-child(-n + 3) {
+            background:#f38339
+        }
+
+        ._13Skp ._3bWpD.yQ712 ._2btWj {
+            background:#fc4c4e
+        }
+
+        ._13Skp ._3bWpD ._2btWj {
+            float: left;
+            width: 8px;
+            height: 6px;
+            background:#e1e5e7
+        }
+
+        ._13Skp ._3bWpD ._2btWj:first-child {
+            width: 9px;
+            border-radius:4px 0 0 4px
+        }
+
+        ._13Skp ._3bWpD ._2btWj:last-child {
+            width: 9px;
+            border-radius:0 4px 4px 0
+        }
+
+        ._13Skp ._3bWpD ._2btWj + ._2btWj {
+            margin-left:1px
+        }
+
+        ._7pTmm {
+            margin-top: 7px;
+            color: #242424;
+            color: rgba(var(--place-color-text2), 1);
+            letter-spacing: -0.3px;
+            line-height:1.9rem
+        }
+
+        ._7pTmm ._2XLwD {
+            width: 22px;
+            height: 22px;
+            margin:-3px 6px 0 0
+        }
+
+        ._7pTmm ._2XLwD.vJKvc {
+            fill:#0dc471
+        }
+
+        ._7pTmm ._2XLwD._3trbW {
+            fill:#f7ad3c
+        }
+
+        ._7pTmm ._2XLwD.MLQze {
+            fill:#f45f61
+        }
+
+        ._7pTmm ._2XLwD._1Ajw2 {
+            fill:#5c5e60
+        }
+
+        ._7pTmm ._2XLwD._3O4VT {
+            fill:#4a97fd
+        }
+
+        ._7pTmm ._2q2L2 {
+            margin-left:5px
+        }
+
+        ._7pTmm ._2q2L2.vJKvc {
+            color:#00a868
+        }
+
+        ._7pTmm ._2q2L2._3trbW {
+            color:#e79b26
+        }
+
+        ._7pTmm ._2q2L2.MLQze {
+            color:#f45f61
+        }
+
+        ._7pTmm ._2q2L2._1Ajw2 {
+            color:#5c5e60
+        }
+
+        ._7pTmm ._1nl_F {
+            display: inline-block;
+            margin-top: -1px;
+            margin-left: 8px;
+            font-size: 1.4rem;
+            color: #8f8f8f;
+            color: rgba(var(--place-color-text5), 1);
+            line-height: 2rem;
+            vertical-align:top
+        }
+
+        ._7pTmm ._1N99c {
+            display: inline-block;
+            position: relative;
+            width: 23px;
+            height: 23px;
+            margin: -2px 0 0 7px;
+            border: 1px solid #e9ecef;
+            border-radius: 2px;
+            box-sizing: border-box;
+            vertical-align:top
+        }
+
+        ._7pTmm ._1N99c ._2C_j9 {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 11px;
+            height:11px
+        }
+
+        ._7pTmm ._1N99c.iHlNR ._2C_j9 {
+            fill: #00c73c;
+            fill: rgba(var(--place-color-bg7), 1);
+            animation:_1Opqc 1s infinite linear
+        }
+
+        @keyframes _1Opqc {
+            from {
+                transform:translate(-50%, -50%) rotate(0)
+            }
+
+            to {
+                transform:translate(-50%, -50%) rotate(360deg)
+            }
+        }
+
+        ._7pTmm .utrGq {
+            margin-top: 6px;
+            font-size: 1.5rem;
+            color: #666;
+            color:rgba(var(--place-color-text4), 1)
+        }
+
+        ._7pTmm .utrGq em {
+            color: #ff5757;
+            color:rgba(var(--place-color-text10), 1)
+        }
+
+        ._1sQHU {
+            margin-top: 8px;
+            font-size:1.5rem
+        }
+
+        ._1sQHU .D-Fgs {
+            color: #242424;
+            color:rgba(var(--place-color-text2), 1)
+        }
+
+        ._1sQHU .D-Fgs ._2XLwD {
+            width: 16px;
+            height: 17px;
+            margin:1px 3px 0 0
+        }
+
+        ._1sQHU .D-Fgs + .m-pBk::before {
+            display: inline-block;
+            width: 1px;
+            height: 12px;
+            margin: 4px 6px 0;
+            background: #e1e1e1;
+            background: rgba(var(--place-color-border12), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._1sQHU .m-pBk {
+            color: #424242;
+            color: rgba(var(--place-color-text3), 1);
+            letter-spacing:-0.3px
+        }
+
+        ._1sQHU .m-pBk ._2XLwD {
+            fill: #9a9a9a;
+            fill: rgba(var(--place-color-text12), 1);
+            width: 30px;
+            height: 17px;
+            margin:2px 0 0 2px
+        }
+
+        ._3XFux {
+            margin-top: 3px;
+            color:#744ba5
+        }
+
+        ._2xvlL {
+            padding: 16px 18px 18px;
+            margin-top: 9px;
+            border-radius: 3px;
+            background: rgba(243, 249, 254, .65);
+            background: rgba(var(--place-color-bg10), 0.65);
+            text-align:center
+        }
+
+        ._2xvlL ._20mrH {
+            font-size: 1.5rem;
+            font-weight: 500;
+            color: #242424;
+            color: rgba(var(--place-color-text2), 1);
+            letter-spacing: -0.3px;
+            line-height:2.1rem
+        }
+
+        ._2xvlL ._20mrH ._2XLwD {
+            width: 20px;
+            height: 20px;
+            margin-right:7px
+        }
+
+        ._2xvlL ._20mrH ._1Y6hi + ._1Y6hi::before {
+            display: inline-block;
+            width: 3px;
+            height: 3px;
+            margin: 8px 7px 0;
+            border-radius: 3px;
+            background: #eaebec;
+            background: rgba(var(--place-color-border18), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._2xvlL ._20mrH ._1Y6hi em {
+            font-weight:600
+        }
+
+        ._2xvlL ._20mrH ._1Y6hi em.L1G8k {
+            font-weight: 500;
+            color: rgba(102, 102, 102, .7);
+            color:rgba(var(--place-color-text4), 0.7)
+        }
+
+        ._2xvlL ._20mrH.YTKj2 ._2XLwD {
+            fill:#f9624b
+        }
+
+        ._2xvlL ._20mrH.YTKj2 em {
+            color:#f9624b
+        }
+
+        ._2xvlL ._20mrH._3ViI6 ._2XLwD {
+            fill:#9264c2
+        }
+
+        ._2xvlL ._20mrH._3ViI6 em {
+            color:#9264c2
+        }
+
+        ._2xvlL ._20mrH._3c6DX ._2XLwD {
+            fill:#ea37a7
+        }
+
+        ._2xvlL ._20mrH._3c6DX em {
+            color:#ea37a7
+        }
+
+        ._2xvlL ._20mrH._2LOGL ._2XLwD {
+            fill:#d61beb
+        }
+
+        ._2xvlL ._20mrH._2LOGL em {
+            color:#d61beb
+        }
+
+        ._2xvlL ._20mrH._2-c-P ._2XLwD {
+            fill:#99643b
+        }
+
+        ._2xvlL ._20mrH._2-c-P em {
+            color:#99643b
+        }
+
+        ._2xvlL ._20mrH._1-cLG ._2XLwD {
+            fill:#ee3a3a
+        }
+
+        ._2xvlL ._20mrH._1-cLG em {
+            color:#ee3a3a
+        }
+
+        ._2xvlL ._20mrH.wOXbF ._2XLwD {
+            fill:#029dff
+        }
+
+        ._2xvlL ._20mrH.wOXbF em {
+            color:#029dff
+        }
+
+        ._2xvlL ._20mrH.NM5mH ._2XLwD {
+            fill:#029dff
+        }
+
+        ._2xvlL ._20mrH.NM5mH em {
+            color:#029dff
+        }
+
+        ._2xvlL ._20mrH._33nnZ ._2XLwD {
+            fill:#99643b
+        }
+
+        ._2xvlL ._20mrH._33nnZ em {
+            color:#99643b
+        }
+
+        ._2xvlL ._20mrH._3YERm ._2XLwD {
+            fill:#f9624b
+        }
+
+        ._2xvlL ._20mrH._3YERm em {
+            color:#f9624b
+        }
+
+        ._2xvlL ._20mrH._2B3DX ._2XLwD {
+            fill:#2ad14b
+        }
+
+        ._2xvlL ._20mrH._2B3DX em {
+            color:#2ad14b
+        }
+
+        ._2xvlL ._20mrH._1Amff ._2XLwD {
+            fill:#4196e9
+        }
+
+        ._2xvlL ._20mrH._1Amff em {
+            color:#4196e9
+        }
+
+        ._2xvlL ._20mrH.xaonP ._2XLwD {
+            fill:#645f9b
+        }
+
+        ._2xvlL ._20mrH.xaonP em {
+            color:#645f9b
+        }
+
+        ._2xvlL ._20mrH.OWdSC ._2XLwD {
+            fill:#5b9ace
+        }
+
+        ._2xvlL ._20mrH.OWdSC em {
+            color:#5b9ace
+        }
+
+        ._2xvlL ._20mrH._1lchQ ._2XLwD {
+            fill:#0475f4
+        }
+
+        ._2xvlL ._20mrH._1lchQ em {
+            color:#0475f4
+        }
+
+        ._2xvlL ._20mrH._1ysSu ._2XLwD {
+            fill:#1fb6c7
+        }
+
+        ._2xvlL ._20mrH._1ysSu em {
+            color:#1fb6c7
+        }
+
+        ._2xvlL ._20mrH._15F4H ._2XLwD {
+            fill:#1fb6c7
+        }
+
+        ._2xvlL ._20mrH._15F4H em {
+            color:#1fb6c7
+        }
+
+        ._2xvlL ._20mrH._1W9zj ._2XLwD {
+            fill:#02b250
+        }
+
+        ._2xvlL ._20mrH._1W9zj em {
+            color:#02b250
+        }
+
+        ._2xvlL ._20mrH._1KX6j ._2XLwD {
+            fill:#f9624b
+        }
+
+        ._2xvlL ._20mrH._1KX6j em {
+            color:#f9624b
+        }
+
+        ._2xvlL ._20mrH.VVWel ._2XLwD {
+            fill:#f97aad
+        }
+
+        ._2xvlL ._20mrH.VVWel em {
+            color:#f97aad
+        }
+
+        ._2xvlL ._20mrH._1RTGT ._2XLwD {
+            fill:#4b96f3
+        }
+
+        ._2xvlL ._20mrH._1RTGT em {
+            color:#4b96f3
+        }
+
+        ._2xvlL ._20mrH._3dT5j ._2XLwD {
+            fill:#4b96f3
+        }
+
+        ._2xvlL ._20mrH._3dT5j em {
+            color:#4b96f3
+        }
+
+        ._2xvlL ._20mrH._35Tzj ._2XLwD {
+            fill:#d182c8
+        }
+
+        ._2xvlL ._20mrH._35Tzj em {
+            color:#d182c8
+        }
+
+        ._2xvlL ._20mrH.pHVEJ ._2XLwD {
+            fill:#6e99f7
+        }
+
+        ._2xvlL ._20mrH.pHVEJ em {
+            color:#6e99f7
+        }
+
+        ._2xvlL ._20mrH._3G8BR ._2XLwD {
+            fill:#0dc471
+        }
+
+        ._2xvlL ._20mrH._3G8BR em {
+            color:#0dc471
+        }
+
+        ._2xvlL ._20mrH._17uzo ._2XLwD {
+            fill:#f7ad3c
+        }
+
+        ._2xvlL ._20mrH._17uzo em {
+            color:#f7ad3c
+        }
+
+        ._2xvlL ._20mrH.-VqOi ._2XLwD {
+            fill:#f45f61
+        }
+
+        ._2xvlL ._20mrH.-VqOi em {
+            color:#f45f61
+        }
+
+        ._2xvlL ._20mrH._2JBUf ._2XLwD {
+            fill:#5c5e60
+        }
+
+        ._2xvlL ._20mrH._2JBUf em {
+            color:#5c5e60
+        }
+
+        ._2xvlL ._20mrH._3SnRv ._2XLwD {
+            fill:#4a97fd
+        }
+
+        ._2xvlL ._20mrH._3SnRv em {
+            color:#4a97fd
+        }
+
+        ._2xvlL ._20mrH._3GVfV ._2XLwD {
+            fill:#03c75a
+        }
+
+        ._2xvlL ._20mrH._3GVfV em {
+            color:#03c75a
+        }
+
+        ._2xvlL ._20mrH._3EXj4 ._2XLwD {
+            fill:#fcab2f
+        }
+
+        ._2xvlL ._20mrH._3EXj4 em {
+            color:#fcab2f
+        }
+
+        ._2xvlL ._20mrH.aC7CD ._2XLwD {
+            fill:#fc4c4e
+        }
+
+        ._2xvlL ._20mrH.aC7CD em {
+            color:#fc4c4e
+        }
+
+        ._2xvlL ._20mrH._3LO_N ._2XLwD {
+            fill:#0dc471
+        }
+
+        ._2xvlL ._20mrH._3LO_N em {
+            color:#0dc471
+        }
+
+        ._2xvlL ._20mrH._4bFlb ._2XLwD {
+            fill:#4a97fd
+        }
+
+        ._2xvlL ._20mrH._4bFlb em {
+            color:#4a97fd
+        }
+
+        ._2xvlL ._20mrH._3lb2u ._2XLwD {
+            fill:#f45f61
+        }
+
+        ._2xvlL ._20mrH._3lb2u em {
+            color:#f45f61
+        }
+
+        ._2xvlL ._20mrH.UE9rL ._2XLwD {
+            fill:#5c5e60
+        }
+
+        ._2xvlL ._20mrH.UE9rL em {
+            color:#5c5e60
+        }
+
+        ._2xvlL ._20mrH._1qGPC ._2XLwD {
+            fill:#5c5e60
+        }
+
+        ._2xvlL ._20mrH._1qGPC em {
+            color:#5c5e60
+        }
+
+        ._2xvlL ._20mrH.jTsq1 ._2XLwD {
+            fill:#5c5e60
+        }
+
+        ._2xvlL ._20mrH.jTsq1 em {
+            color:#5c5e60
+        }
+
+        ._2xvlL ._20mrH._3gSK3 ._2XLwD {
+            fill:#5c5e60
+        }
+
+        ._2xvlL ._20mrH._3gSK3 em {
+            color:#5c5e60
+        }
+
+        ._2xvlL ._1342c {
+            margin-top: 8px;
+            font-size: 1.5rem;
+            color: #666;
+            color:rgba(var(--place-color-text4), 1)
+        }
+
+        ._2xvlL ._1342c ._1N99c {
+            position: relative;
+            display: inline-block;
+            width: 21px;
+            height: 21px;
+            margin: -2px 0 0 7px;
+            border: 1px solid;
+            border-color: #e9ecef;
+            border-color: rgba(var(--place-color-bg1), 1);
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            vertical-align:top
+        }
+
+        ._2xvlL ._1342c ._1N99c ._2XLwD {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            fill: #242424;
+            fill: rgba(var(--place-color-text2), 1);
+            width: 12px;
+            height:12px
+        }
+
+        ._2xvlL ._1342c ._1N99c.iHlNR ._2XLwD {
+            fill: #00c73c;
+            fill: rgba(var(--place-color-bg7), 1);
+            animation:_1Opqc 1s infinite linear
+        }
+
+        @keyframes _1Opqc {
+            from {
+                transform:translate(-50%, -50%) rotate(0)
+            }
+
+            to {
+                transform:translate(-50%, -50%) rotate(360deg)
+            }
+        }
+
+        ._2xvlL ._2mG7n {
+            margin-top: 12px;
+            color: #424242;
+            color: rgba(var(--place-color-text3), 1);
+            font-size: 1.5rem;
+            letter-spacing: -0.3px;
+            line-height:2.1rem
+        }
+
+        ._2xvlL ._2mG7n em {
+            font-size: 1.5rem;
+            font-weight:700
+        }
+
+        ._2xvlL ._2mG7n em::after {
+            display: inline-block;
+            width: 3px;
+            height: 3px;
+            margin: 9px 4px 0;
+            background: #eaebec;
+            background: rgba(var(--place-color-border18), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._2xvlL ._2mG7n ._1T5Vv {
+            display: inline-block;
+            margin-left: 3px;
+            font-size: 1.3rem;
+            color: rgba(102, 102, 102, .6);
+            color: rgba(var(--place-color-text4), 0.6);
+            vertical-align:top
+        }
+
+        ._2xvlL .zfcNI {
+            padding: 0 14px;
+            margin-top: 11px;
+            border-radius: 3px;
+            background: rgba(0, 104, 195, .05);
+            background: rgba(var(--place-color-link), 0.05);
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: #4a97fd;
+            line-height:2.6rem
+        }
+
+        ._2xvlL .P6quD {
+            display: flex;
+            margin-top:10px
+        }
+
+        ._2xvlL .P6quD ._2cgGW {
+            display: inline-block;
+            position: relative;
+            vertical-align:top
+        }
+
+        ._2xvlL .P6quD ._2cgGW + ._2cgGW {
+            margin-left:6px
+        }
+
+        ._2xvlL .P6quD ._2cgGW._2Ylqf {
+            width:62%
+        }
+
+        ._2xvlL .P6quD ._2cgGW._23MtQ {
+            flex:1 1 auto
+        }
+
+        ._2xvlL .P6quD ._21J6E {
+            display: block;
+            border-radius: 3px;
+            background: linear-gradient(to left, #0ad18e, #01d760);
+            font-size: 1.5rem;
+            font-weight: 500;
+            color: #fff;
+            letter-spacing: -0.2px;
+            line-height:4rem
+        }
+
+        ._2xvlL .P6quD ._21J6E.L1G8k {
+            background: rgba(0, 0, 0, .1);
+            background: rgba(var(--place-color-text1), 0.1);
+            color:#fff
+        }
+
+        ._2xvlL .P6quD ._21J6E.L1G8k ._3RIea {
+            fill:#fff
+        }
+
+        ._2xvlL .P6quD ._3RIea {
+            fill: #fff;
+            width: 16px;
+            height: 16px;
+            margin:12px 6px 0 0
+        }
+
+        ._2xvlL .P6quD ._1DXwA {
+            display: block;
+            border-radius: 3px;
+            border: 1px solid;
+            border-color: rgba(0, 207, 91, .6);
+            border-color: rgba(var(--place-color-text8), 0.6);
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            font-size: 1.5rem;
+            color: #242424;
+            color: rgba(var(--place-color-text2), 1);
+            letter-spacing: -0.2px;
+            line-height:3.8rem
+        }
+
+        ._2xvlL .P6quD .UphFO {
+            fill: #00cf5b;
+            fill: rgba(var(--place-color-text8), 1);
+            width: 13px;
+            height: 15px;
+            margin:12px 6px 0 0
+        }
+
+        ._2xvlL .P6quD ._13Jsn {
+            position: absolute;
+            left: 0;
+            margin-top: -2px;
+            z-index: 10;
+            padding: 13px 17px 12px;
+            border-radius: 2px;
+            border: 1px solid;
+            border-color: #cbdeed;
+            border-color: rgba(var(--place-color-border16), 1);
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            box-shadow: 0 3px 5px 0 rgba(0, 0, 0, .07);
+            box-sizing: border-box;
+            font-size: 1.5rem;
+            font-weight: 400;
+            color: #424242;
+            color: rgba(var(--place-color-text3), 1);
+            letter-spacing: -0.3px;
+            line-height: 2.1rem;
+            white-space:nowrap
+        }
+
+        ._2xvlL .P6quD ._13Jsn ._1RJ3P {
+            position: absolute;
+            top: -8px;
+            left: 79px;
+            width: 14px;
+            height:8px
+        }
+
+        ._2xvlL .P6quD ._13Jsn ._1RJ3P .place_vaccine_triangle_bg {
+            fill: #fff;
+            fill:rgba(var(--place-color-bg2), 1)
+        }
+
+        ._2xvlL .P6quD ._13Jsn ._1RJ3P .place_vaccine_triangle_border {
+            fill: #cbdeed;
+            fill:rgba(var(--place-color-border16), 1)
+        }
+
+        ._3XpyR._2z4r0 ._1_hm2 ._3XamX {
+            font-weight: 700;
+            letter-spacing:-1px
+        }
+
+        ._3XpyR._2z4r0 ._1_hm2 ._3ocDE {
+            font-size:1.4rem
+        }
+
+        ._3XpyR._2z4r0 ._1kUrA ._1Y6hi {
+            font-size:1.5rem
+        }
+
+        ._3XpyR._2z4r0 ._1kUrA ._1Y6hi._1A8_M ._2XLwD {
+            width: 12px;
+            height: 12px
+        }
+        </style>
+        <style id="9a96a1" type="text/css" data-isomorphic-style="true">
+        .Yccdj {
+            margin-top: -1px;
+            padding: 2px 0 21px;
+            border-bottom: 1px solid;
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            text-align: center;
+            border-color: #ecf0f2;
+            border-color:rgba(var(--place-color-border2), 1)
+        }
+
+        .Yccdj .vrlJ3, .Yccdj ._1xn__ {
+            display: inline-block;
+            padding: 7px 22px;
+            border: 1px solid #0385ff;
+            border-radius: 18px;
+            font-size: 1.5rem;
+            font-weight: 500;
+            vertical-align:top
+        }
+
+        .Yccdj .vrlJ3 ._1sD-y, .Yccdj ._1xn__ ._1sD-y {
+            margin-top:2px
+        }
+
+        .Yccdj ._1xn__ {
+            background: #fff;
+            color:#0385ff
+        }
+
+        .Yccdj ._1xn__ ._1sD-y {
+            margin-right:3px
+        }
+
+        .Yccdj .vrlJ3 {
+            margin-left: 7px;
+            background: #0385ff;
+            color:#fff
+        }
+
+        .Yccdj .vrlJ3 ._1sD-y {
+            margin-right: 7px
+        }
+        </style>
+        <style id="85cfbc" type="text/css" data-isomorphic-style="true">
+        ._1O16v .bU50m, ._1O16v ._5ZIKi, ._1O16v ._2UOTb, ._1O16v ._9hF9E, ._1O16v ._1gLAB {
+            fill: #bd2333;
+            height: 14px;
+            margin:3px 0 0 6px
+        }
+
+        .eLmNW .aW-AU, .eLmNW ._1KCw5, .tc8lk .aW-AU, .tc8lk ._1KCw5, ._1bN0q .aW-AU, ._21dTe .aW-AU, ._1bN0q ._1KCw5, ._21dTe ._1KCw5, ._2VjsJ .aW-AU, ._2VjsJ ._1KCw5, ._2-wGQ .aW-AU, ._2-wGQ ._1KCw5, ._1O16v .aW-AU, ._1O16v ._1KCw5 {
+            width: 8px;
+            height:19px
+        }
+
+        ._2-wGQ ._34_01 {
+            width: 13px;
+            height:13px
+        }
+
+        .rZaqA {
+            margin-top: -6px;
+            padding-bottom: 14px;
+            border-bottom: 1px solid;
+            border-color: #ecf0f2;
+            border-color: rgba(var(--place-color-border2), 1);
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            font-size: 1.5rem;
+            color: #666;
+            color: rgba(var(--place-color-text4), 1);
+            line-height: 2rem;
+            text-align:center
+        }
+
+        ._1O16v {
+            font-weight: 500;
+            color:#bd2333
+        }
+
+        ._1O16v ._34T0h {
+            margin-right:5px
+        }
+
+        ._1O16v ._1gLAB {
+            width:12px
+        }
+
+        ._1O16v ._9hF9E {
+            width:26px
+        }
+
+        ._1O16v ._2UOTb {
+            width:40px
+        }
+
+        ._1O16v ._5ZIKi {
+            width: 15px;
+            margin-top:3px
+        }
+
+        ._1O16v .bU50m {
+            width: 19px;
+            margin-top:3px
+        }
+
+        ._1O16v ._1KCw5 {
+            fill: #bd2333;
+            margin-right:5px
+        }
+
+        ._1O16v .aW-AU {
+            fill: #bd2333;
+            margin-left: 5px;
+            transform:scaleX(-1)
+        }
+
+        ._2-wGQ {
+            font-weight: 500;
+            color: #ff5f17;
+            letter-spacing:-0.3px
+        }
+
+        ._2-wGQ ._1KCw5 {
+            fill: #ff5f17;
+            margin-right:5px
+        }
+
+        ._2-wGQ .aW-AU {
+            fill: #ff5f17;
+            margin-left: 5px;
+            transform:scaleX(-1)
+        }
+
+        ._2-wGQ ._34_01 {
+            fill: #ff5f17;
+            width: 13px;
+            height: 13px;
+            margin:4px 3px 0 0
+        }
+
+        ._2VjsJ {
+            color: #333;
+            color: rgba(var(--place-color-text6), 1);
+            letter-spacing:-0.3px
+        }
+
+        ._2VjsJ em {
+            margin-right: 4px;
+            font-weight: 500;
+            color:#14a0fa
+        }
+
+        ._2VjsJ ._2UZIe {
+            margin:4px 4px 0 0
+        }
+
+        ._2VjsJ ._1KCw5 {
+            fill: #14a0fa;
+            margin-right:5px
+        }
+
+        ._2VjsJ .aW-AU {
+            fill: #14a0fa;
+            margin-left: 5px;
+            transform:scaleX(-1)
+        }
+
+        ._1bN0q ._2UZIe {
+            width: 61px;
+            height:21px
+        }
+
+        ._21dTe ._2UZIe {
+            fill: #283953;
+            fill: rgba(var(--place-color-bg110), 1);
+            width: 47px;
+            height:17px
+        }
+
+        ._1bN0q, ._21dTe {
+            font-weight: 500;
+            color: #166cdd;
+            letter-spacing:-0.3px
+        }
+
+        ._1bN0q ._2UZIe, ._21dTe ._2UZIe {
+            margin:1px 0 0 6px
+        }
+
+        ._1bN0q ._1KCw5, ._21dTe ._1KCw5 {
+            fill: #166cdd;
+            margin-right:5px
+        }
+
+        ._1bN0q .aW-AU, ._21dTe .aW-AU {
+            fill: #166cdd;
+            margin-left: 5px;
+            transform:scaleX(-1)
+        }
+
+        .tc8lk {
+            font-weight: 500;
+            color: #242424;
+            color: rgba(var(--place-color-text2), 1);
+            letter-spacing:-0.3px
+        }
+
+        .tc8lk em {
+            margin-left: 4px;
+            font-weight: 600;
+            color:#166cdd
+        }
+
+        .tc8lk ._1KCw5 {
+            fill: #166cdd;
+            margin-right:5px
+        }
+
+        .tc8lk .aW-AU {
+            fill: #166cdd;
+            margin-left: 5px;
+            transform:scaleX(-1)
+        }
+
+        .eLmNW {
+            font-weight: 500;
+            color: #ea37a7;
+            letter-spacing:-0.3px
+        }
+
+        .eLmNW ._1KCw5 {
+            fill: #ea37a7;
+            margin-right:5px
+        }
+
+        .eLmNW .aW-AU {
+            fill: #ea37a7;
+            margin-left: 5px;
+            transform:scaleX(-1)
+        }
+
+        .eLmNW ._2UZIe {
+            width: 16px;
+            height: 17px;
+            margin:1px 3px 0 0
+        }
+
+        .rZaqA.MFyRY {
+            font-size: 1.4rem
+        }
+        </style>
+        <style id="bd5b30" type="text/css" data-isomorphic-style="true">
+        .afDDM {
+            margin:0 -8px
+        }
+
+        .afDDM ._2jTv0 {
+            display: table;
+            table-layout: fixed;
+            width:100%
+        }
+
+        .afDDM ._3EHfk {
+            display: table-cell;
+            position:relative
+        }
+
+        .afDDM ._3EHfk + ._3EHfk::before {
+            display: block;
+            position: absolute;
+            top: 15px;
+            bottom: 15px;
+            left: 0;
+            width: 1px;
+            content: "";
+            background: #f2f4f6;
+            background:rgba(var(--place-color-border4), 1)
+        }
+
+        .afDDM ._3HEBM {
+            display: block;
+            padding: 13px 0 11px;
+            font-size: 1.4rem;
+            color: #424242;
+            color: rgba(var(--place-color-text3), 1);
+            text-align:center
+        }
+
+        .afDDM ._3HEBM ._3Ehff {
+            display: block !important;
+            width: 18px;
+            height: 18px;
+            margin: 0 auto 6px;
+            fill: #545454;
+            fill:rgba(var(--place-color-bg105), 1)
+        }
+
+        .afDDM ._3HEBM ._2rlsT {
+            display: inline-block;
+            font-size: 1.4rem;
+            color: #8f8f8f;
+            color: rgba(var(--place-color-text5), 1);
+            vertical-align:top
+        }
+
+        .afDDM ._3HEBM ._2rlsT::before {
+            display: inline-block;
+            width: 2px;
+            height: 2px;
+            margin: 9px 3px;
+            border-radius: 50%;
+            background: #eaebec;
+            background: rgba(var(--place-color-border18), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        .afDDM ._3HEBM._2ltz6 {
+            color: #0abe16;
+            color:rgba(var(--place-color-text9), 1)
+        }
+
+        .afDDM ._3HEBM._2ltz6 ._3Ehff {
+            fill: #00c73c;
+            fill:rgba(var(--place-color-bg7), 1)
+        }
+
+        .afDDM ._1glzD {
+            position:relative
+        }
+
+        .afDDM .hR-Tl {
+            position: absolute;
+            top: -5px;
+            left: calc(50% + 8px);
+            width: 15px;
+            height:14px
+        }
+
+        ._3wP2G ._2jTv0 {
+            display: flex;
+            padding-bottom:16px
+        }
+
+        ._3wP2G ._2jTv0:empty {
+            padding-bottom:0
+        }
+
+        ._3wP2G ._3EHfk {
+            flex: 1;
+            position:relative
+        }
+
+        ._3wP2G ._3EHfk + ._3EHfk {
+            margin-left:6px
+        }
+
+        ._3wP2G ._3EHfk._9kacH {
+            overflow:hidden
+        }
+
+        ._3wP2G ._3EHfk._1cceq:not(:only-child) {
+            flex:none
+        }
+
+        ._3wP2G ._3HEBM {
+            display: block;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            padding: 9px 10px 9px 9px;
+            border: 1px solid rgba(3, 199, 90, .6);
+            border-radius: 4px;
+            font-size: 1.5rem;
+            text-align: center;
+            white-space: nowrap;
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            color: #0abe16;
+            color:rgba(var(--place-color-text9), 1)
+        }
+
+        ._3wP2G ._3HEBM ._3Ehff {
+            width: 16px;
+            height: 16px;
+            margin: 2px 4px 0 0;
+            fill: #00c73c;
+            fill:rgba(var(--place-color-bg7), 1)
+        }
+
+        ._3wP2G ._3HEBM ._Rzfa {
+            color: #000;
+            color:rgba(var(--place-color-text1), 1)
+        }
+
+        ._3wP2G ._3HEBM ._3J52y {
+            color: #0abe16;
+            color:rgba(var(--place-color-text9), 1)
+        }
+
+        ._3wP2G ._3HEBM ._3J52y::before {
+            display: inline-block;
+            width: 1px;
+            height: 14px;
+            margin: 3px 8px 0;
+            background: #e1e1e1;
+            background: rgba(var(--place-color-border12), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._3wP2G ._3HEBM._2rCJ4 {
+            border-color: #ecf0f2;
+            border-color: rgba(var(--place-color-border2), 1);
+            color: #8f8f8f;
+            color:rgba(var(--place-color-text5), 1)
+        }
+
+        ._3wP2G ._3HEBM._2rCJ4 ._3Ehff {
+            fill: #8f8f8f;
+            fill:rgba(var(--place-color-text5), 1)
+        }
+
+        ._3wP2G ._1JlnK {
+            position: absolute;
+            top: 36px;
+            left: 50%;
+            z-index: 5500;
+            transform:translateX(-50%)
+        }
+
+        ._3wP2G ._OEVJ {
+            border: 1px solid transparent;
+            border-radius: 16px;
+            background-clip: padding-box, border-box;
+            background-image: linear-gradient(99deg, #01d77e, #4bcdcc), linear-gradient(99deg, #04cd7a, #48c4c3);
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .04);
+            font-size: 1.4rem;
+            font-weight: 500;
+            color: #fff;
+            letter-spacing: -0.1px;
+            white-space: nowrap;
+            background-origin:border-box
+        }
+
+        ._3wP2G ._OEVJ ._1Eqw8 {
+            padding:5px 13px 5px
+        }
+
+        ._3wP2G ._OEVJ ._1Eqw8 em {
+            font-weight: 600;
+            color:#fff974
+        }
+
+        ._3wP2G .Jtfm9 {
+            position: absolute;
+            top: 30px;
+            left: 50%;
+            z-index: 5510;
+            transform:translateX(-50%)
+        }
+
+        ._3wP2G ._2QxMc {
+            margin: -2px 0 14px;
+            font-size: 1.5rem;
+            color: #424242;
+            color: rgba(var(--place-color-text3), 1);
+            text-align:center
+        }
+
+        ._3wP2G ._2QxMc ._3Ehff {
+            fill: #fc4c4e;
+            width: 15px;
+            height: 15px;
+            margin:3px 4px 0 0
+        }
+
+        ._3wP2G.JJjn3 ._3EHfk:only-child ._3HEBM ._3J52y {
+            display:inline
+        }
+
+        ._3wP2G.JJjn3 ._3HEBM ._3J52y {
+            display:none
+        }
+
+        @media screen and (max-width: 360px) {
+            ._3wP2G {
+                margin:0 -6px
+            }
+
+            ._3wP2G ._3HEBM {
+                padding: 7px 6px 7px 5px;
+                font-size:1.3rem
+            }
+
+            ._3wP2G ._3HEBM ._3Ehff {
+                width: 14px;
+                height: 14px;
+                margin:4px 4px 0 0
+            }
+
+            ._3wP2G ._1JlnK {
+                top:33px
+            }
+
+            ._3wP2G .Jtfm9 {
+                top:27px
+            }
+        }
+
+        ._3wP2G._1mBhq ._3HEBM ._Rzfa {
+            font-weight: 700;
+            color: #242424;
+            color: rgba(var(--place-color-text2), 1)
+        }
+        </style>
+        <style id="6f24dd" type="text/css" data-isomorphic-style="true">
+        ._2rg4o {
+            overflow: hidden;
+            top: 50%;
+            left: 50%;
+            width: 303px;
+            border-radius: 3px;
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            box-sizing: border-box;
+            text-align: center;
+            transform:translate(-50%, -50%)
+        }
+
+        .tJiFf {
+            right: 0;
+            bottom: 0;
+            left: 0;
+            border-radius: 15px 15px 0 0;
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            padding-bottom: 0px;
+            padding-bottom: calc(0px + constant(safe-area-inset-bottom));
+            padding-bottom:calc(0px + env(safe-area-inset-bottom))
+        }
+
+        ._2zCpj {
+            right: 0;
+            bottom: 0;
+            left: 0;
+            border-radius: 16px 16px 0 0;
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            padding-bottom: 0px;
+            padding-bottom: calc(0px + constant(safe-area-inset-bottom));
+            padding-bottom:calc(0px + env(safe-area-inset-bottom))
+        }
+
+        ._2zCpj ._3pf0n {
+            padding: 32px 18px;
+            color: #242424;
+            color: rgba(var(--place-color-text2), 1);
+            letter-spacing: -0.3px;
+            line-height:2.3rem
+        }
+
+        ._2zCpj ._3pf0n em {
+            color: #0abe16;
+            color: rgba(var(--place-color-text9), 1)
+        }
+        </style>
+        <style id="0aa7bd" type="text/css" data-isomorphic-style="true">
+        ._1JSzo {
+            padding-bottom:16px
+        }
+
+        ._9WXw- {
+            display: block;
+            border-radius: 4px;
+            background-clip: content-box, border-box;
+            background-image: linear-gradient(to left, #4edcdb, #00e164);
+            background-origin: border-box;
+            box-shadow:0 1px 2px 0 rgba(0, 0, 0, .08)
+        }
+
+        ._9WXw- ._1g69x {
+            display: block;
+            padding: 11px 14px;
+            -webkit-background-clip: text;
+            font-weight: 800;
+            color: #fff;
+            letter-spacing: -0.5px;
+            text-align: center;
+            -webkit-text-fill-color:currentcolor
+        }
+
+        ._9WXw- ._1g69x em {
+            font-weight:500
+        }
+
+        ._9WXw- ._1XeXr {
+            display: inline-block;
+            position: relative;
+            width: 18px;
+            height: 18px;
+            margin: 0 0 0 9px;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            vertical-align:top
+        }
+
+        ._9WXw- ._1XeXr .Wsskl {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            fill: #fff;
+            width: 9x;
+            height:5px
+        }
+
+        ._9WXw-._3Jyb8 {
+            border-bottom-right-radius: 0;
+            border-bottom-left-radius: 0;
+            box-shadow:none
+        }
+
+        ._9WXw-._3Jyb8 ._1XeXr {
+            transform: scaleY(-1)
+        }
+        </style>
+        <style id="e57d7c" type="text/css" data-isomorphic-style="true">
+        ._6xJoB {
+            padding-bottom: 0px;
+            padding-bottom: calc(0px + constant(safe-area-inset-bottom));
+            padding-bottom: calc(0px + env(safe-area-inset-bottom));
+            position: fixed;
+            right: 0;
+            bottom: 24px;
+            left: 0;
+            z-index: 5000;
+            text-align:center
+        }
+
+        ._6xJoB ._1AVWA {
+            display: inline-block;
+            padding: 13px 26px 10px;
+            border-radius: 27px;
+            background: #0191ff;
+            box-shadow: 0 3px 10px 0 rgba(0, 0, 0, .07), 0 2px 0 0 #0c7ed6, 0 -2px 4px 0 rgba(0, 0, 0, .08);
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: -0.3px;
+            line-height: 2.2rem;
+            vertical-align:top
+        }
+
+        ._6xJoB ._1AVWA ._25VZz {
+            fill: #fff;
+            width: 13px;
+            height: 12px;
+            margin: 5px 0 0 7px
+        }
+        </style>
+        <style id="9af64f" type="text/css" data-isomorphic-style="true">
+        ._2qDEf {
+            padding:25px 18px 38px
+        }
+
+        ._2qDEf._3x88i {
+            opacity: 0;
+            position: fixed;
+            top: 0;
+            right: 0;
+            left: 0;
+            z-index:-10
+        }
+
+        ._1NKY0 {
+            display: block;
+            margin: -7px 0 25px;
+            border: 1px solid;
+            border-color: #dee0e2;
+            border-color: rgba(var(--place-color-border13), 1);
+            background: #fff;
+            background: rgba(var(--place-color-bg2), 1);
+            box-sizing: border-box;
+            color: #424242;
+            color: rgba(var(--place-color-text3), 1);
+            line-height: 46px;
+            text-align:center
+        }
+
+        ._1NKY0 ._3cWuW {
+            fill: #00c73c;
+            fill: rgba(var(--place-color-bg7), 1);
+            width: 16px;
+            height: 16px;
+            margin:15px 8px 0 0
+        }
+
+        ._10P26 {
+            text-align:center
+        }
+
+        ._10P26 ._1p1Og {
+            font-size: 1.4rem;
+            color: #8f8f8f;
+            color:rgba(var(--place-color-text5), 1)
+        }
+
+        ._10P26 ._1p1Og + ._1p1Og::before {
+            display: inline-block;
+            width: 1px;
+            height: 12px;
+            margin: 5px 10px 0;
+            background: #e1e1e1;
+            background: rgba(var(--place-color-border12), 1);
+            vertical-align: top;
+            content: ""
+        }
+
+        ._11393 {
+            margin-top: 10px;
+            text-align:center
+        }
+
+        ._11393 ._3cWuW {
+            fill: #b6bcc7;
+            width: 52px;
+            height:10px
+        }
+
+        @media screen and (max-width: 320px) {
+            ._10P26 ._1p1Og + ._1p1Og::before {
+                margin: 5px 8px 0
+            }
+        }
+        </style>
+    </div>
+    <div id="modal-root"></div>
+    <div id="app-root" class="undefined">
+        <div>
+            <header class="_3T5PD hide" role="banner" data-nclicks-area-code="btp">
+                <h1 class="_2msz7">새움병원</h1>
+                <a href="https://m.place.naver.com/my" class="_1nU3J">MY</a>
+            </header>
+            <div class="_1_K3a" data-nclicks-area-code="btp">
+                <a href="https://m.place.naver.com/my" class="Xw8gb">MY</a>
+                <div class="_3eHVS W3koY">
+                    <div class="Y8J3x">
+                        <div class="_1ZDCY">
+                            <a href="#" role="button" class="place_thumb _2cCeJ" id="_autoPlayable">
+                                <div class="cb7hz _div" style="width:100%;height:100%;background-image:url(https://search.pstatic.net/common/?autoRotate=true&amp;type=w560_sharpen&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210430_59%2F1619768664339ODTSE_JPEG%2Fmsid0580vHR7EGi8cplyYPjp.jpg)" id="ibu_1"></div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="Y8J3x">
+                        <div class="biwdu">
+                            <div class="Y8J3x">
+                                <div class="_1ZDCY">
+                                    <a href="#" role="button" class="place_thumb _2cCeJ">
+                                        <div class="cb7hz _div" style="width:100%;height:100%;background-image:url(https://search.pstatic.net/common/?autoRotate=true&amp;type=w278_sharpen&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210419_143%2F16188024040777V0j6_JPEG%2FTr_BQ4ZsMgxuiaZm5FCNQi_R.jpg)" id="ibu_2"></div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="Y8J3x">
+                                <div class="_1ZDCY">
+                                    <a href="#" role="button" class="place_thumb _2cCeJ">
+                                        <div class="cb7hz _div" style="width:100%;height:100%;background-image:url(https://search.pstatic.net/common/?autoRotate=true&amp;type=w278_sharpen&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210419_48%2F1618799738933f7Fmp_JPEG%2FhL0jP1aWbQwphPjkhYQeMjrI.jpg)" id="ibu_3"></div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="biwdu">
+                            <div class="Y8J3x">
+                                <div class="_1ZDCY">
+                                    <a href="#" role="button" class="place_thumb _2cCeJ">
+                                        <div class="cb7hz _div" style="width:100%;height:100%;background-image:url(https://search.pstatic.net/common/?autoRotate=true&amp;type=w278_sharpen&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210419_266%2F1618799741282XimHX_JPEG%2FsguH5oBebvR-LqQYhwBl2uHZ.jpg)" id="ibu_4"></div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="Y8J3x">
+                                <div class="_1ZDCY">
+                                    <a href="#" role="button" class="place_thumb _2cCeJ">
+                                        <div class="cb7hz _div" style="width:100%;height:100%;background-image:url(https://search.pstatic.net/common/?autoRotate=true&amp;type=w278_sharpen&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210514_290%2F1620982650340W0yI9_JPEG%2FaTK1ye2i2FaI06HlnqlrBUHb.jpg)" id="ibu_5"></div>
+                                        <span class="uxDFa">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 15" class="_3hgby">
+                                                <path d="M13.6 2.5h4.9v12.2H.5V2.5h4.8L6.1 0h6.8l.7 2.5zm3.9 1h-4.6L12.1 1H6.8l-.7 2.5H1.5v10.2h16V3.5zm-8.1 7c1.3 0 2.4-1.1 2.4-2.4s-1.1-2.4-2.4-2.4S7 6.8 7 8.1s1 2.4 2.4 2.4zm0 1C7.5 11.5 6 10 6 8.1s1.5-3.4 3.4-3.4 3.4 1.5 3.4 3.4-1.6 3.4-3.4 3.4z"></path>
+                                            </svg>
+                                            1개 더보기
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="place_detail_wrapper">
+                <div class="place_section no_margin GCwOh" data-nclicks-area-code="btp">
+                    <div class="place_section_content">
+                        <div class="_2jQ0s">
+                            <div class="_3XpyR  ">
+                                <span id="_title" class="_1_hm2">
+                                    <span class="_3XamX">새움병원</span>
+                                    <span class="_3ocDE">정형외과</span>
+                                </span>
+                                <div class="_1kUrA">
+                                    <span class="_1Y6hi">
+                                        <a href="/hospital/13554953/review/visitor">
+                                            방문자리뷰<!-- -->
+                                            <em>122</em>
+                                        </a>
+                                    </span>
+                                    <span class="_1Y6hi">
+                                        <a href="/hospital/13554953/review/ugc">
+                                            블로그리뷰<!-- -->
+                                            <em>1,421</em>
+                                        </a>
+                                    </span>
+                                </div>
+                                <div class="_2xvlL">
+                                    <div class="_20mrH UE9rL">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="_2XLwD" role="presentation">
+                                            <path d="M13.07 4.41l.89-.88.52.52c.16.16.4.16.56 0a.4.4 0 0 0 0-.56L12.41.86a.4.4 0 0 0-.55 0h-.01a.4.4 0 0 0 0 .56l.54.54-.89.88 1.57 1.57zM5.3 13.48l.68-.03c.36-.03.7-.18.95-.43l6.35-6.38.04.03a.4.4 0 0 0 .52-.59l.02-.02-3.95-3.95-.02.02-.04-.04a.4.4 0 1 0-.56.56l.03.04-6.34 6.34c-.22.23-.36.5-.4.8l-.03.16-.03.7c-.04.43.12.85.42 1.15l1.26 1.22c.27.27.65.43 1.04.42h.06zm.6-.75h-.66a.72.72 0 0 1-.51-.2L3.52 11.3a.7.7 0 0 1-.2-.55v-.7a.76.76 0 0 1 .2-.46l6.35-6.35 2.88 2.88-6.38 6.4a.77.77 0 0 1-.47.2zM.3 16c.08 0 .15-.03.2-.08l1.47-1.47.04.03a.7.7 0 0 0 .8.07l.09-.07 1.14-.75a2.04 2.04 0 0 1-.32-.23L2.5 12.29c-.09-.1-.16-.2-.23-.32l-.83 1.14a.7.7 0 0 0 .08.89l.03.04L.08 15.5a.29.29 0 0 0-.03.36l.03.05a.3.3 0 0 0 .2.08z"></path>
+                                            <path d="M11.18 8.78L7.22 4.82 2.98 9.07c-.25.25-.4.6-.43.95l-.03.67c-.03.42.13.82.42 1.12l1.22 1.25c.28.27.65.43 1.04.42h.1l.71-.03c.36-.03.7-.18.95-.43l4.22-4.24z" opacity=".6"></path>
+                                        </svg>
+                                        <span class="_1Y6hi">
+                                            화이자<!-- -->
+                                            <em>
+                                                0
+                                                <span class="place_blind">개</span>
+                                            </em>
+                                        </span>
+                                    </div>
+                                    <div class="_1342c">
+                                        15:39 업데이트
+                                        <a href="#" role="button" class="_1N99c">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" class="_2XLwD" role="presentation">
+                                                <path fill-rule="evenodd" d="M14 7.51a6.5 6.5 0 1 1-6.5-6.49 5.97 5.97 0 0 1 5.03 2.49H9.49v1H14V0h-1v2.5a7.94 7.94 0 0 0-.37-.4A6.97 6.97 0 0 0 7.5.03 7.5 7.5 0 0 0 0 7.52a7.5 7.5 0 0 0 15-.01h-1z"></path>
+                                            </svg>
+                                            <span class="place_blind">새로고침</span>
+                                        </a>
+                                    </div>
+                                    <div class="_2mG7n">
+                                        <em>접종 시간</em>
+                                        15:00<!-- -->
+                                        ~<!-- -->
+                                        17:00
+                                        <span class="_1T5Vv">
+                                            7월 16일<!-- -->
+                                             기준
+                                        </span>
+                                    </div>
+                                    <p class="zfcNI">60세 미만은 전화예약이 불가합니다.</p>
+                                    <div class="P6quD">
+                                        <div class="_2cgGW _2Ylqf">
+                                            <a href="#" role="button" class="_21J6E L1G8k">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="_3RIea" role="presentation">
+                                                    <path d="M8.32 2.42L7.18 3.56H1.89a.75.75 0 0 0-.75.75v9.57c0 .41.34.75.75.75h8.2c.42 0 .75-.34.75-.75V9.73l1.14-1.14v5.29c0 1.04-.84 1.89-1.89 1.89H1.9C.85 15.77 0 14.93 0 13.88V4.31c0-1.05.85-1.9 1.9-1.9h6.42zm3.86-1.27a2.32 2.32 0 0 1 1.64 3.97l-.1.1-.6.6-6.22 6.22H3.62V8.75l6.91-6.91a2.31 2.31 0 0 1 1.65-.68zm-1.8 2.47L4.77 9.23v1.66h1.66l5.6-5.61-1.65-1.66zm1.8-1.31c-.31 0-.61.12-.83.34l-.1.1 1.65 1.66.1-.1a1.16 1.16 0 0 0 0-1.66 1.16 1.16 0 0 0-.82-.34z"></path>
+                                                </svg>
+                                                접종 예약신청
+                                            </a>
+                                        </div>
+                                        <div class="_2cgGW _23MtQ">
+                                            <a href="#" role="button" class="_1DXwA">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 15" class="UphFO" role="presentation">
+                                                    <path d="M1.32 11.02l.82-1.52a.52.52 0 0 0 .07-.25V5.83a4.7 4.7 0 0 1 1.28-3.25 4.23 4.23 0 0 1 6.18 0 4.7 4.7 0 0 1 1.29 3.25v3.43c0 .08.01.16.04.23l.72 1.53H1.32zm5.2 2.02c-.68 0-1.27-.4-1.55-.98h3.09c-.28.58-.86.98-1.55.98zm6.28-2.15L12 9.15V5.83c0-1.5-.56-2.9-1.57-3.97a5.27 5.27 0 0 0-7.7 0 5.73 5.73 0 0 0-1.56 3.97v3.29l-.94 1.72a.82.82 0 0 0 .73 1.22h2.92a2.75 2.75 0 0 0 2.64 2.02c1.26 0 2.31-.86 2.64-2.02h2.89a.83.83 0 0 0 .75-1.17z"></path>
+                                                </svg>
+                                                알림 신청
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="afDDM">
+                                <div class="_2jTv0">
+                                    <span class="_3EHfk">
+                                        <a href="tel:1577-7015" class="_3HEBM" data-for-biz-catcher="mainNumber=1577-7015&amp;callSource=PLACE_DETAIL&amp;keyword=%EC%83%88%EC%9B%80%EB%B3%91%EC%9B%90&amp;description=13554953">
+                                            <div class="_1glzD">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="_3Ehff" role="presentation">
+                                                    <path d="M15.65 19A18.71 18.71 0 0 1 1 4.34L4.33 1l.94.94 4.16 4.15-.99.99L6.8 8.72a12.03 12.03 0 0 0 4.54 4.51l2.64-2.6 4.09 4.1.93.92L15.65 19z"></path>
+                                                </svg>
+                                            </div>
+                                            전화
+                                        </a>
+                                    </span>
+                                    <div class="_3HEBM">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="_3Ehff" role="presentation">
+                                            <path d="M16 2.5H4v14.84l6-3.62 6 3.62V2.5zM3.5 1h13a1 1 0 0 1 1 1v18L10 15.48 2.5 20V2a1 1 0 0 1 1-1z"></path>
+                                        </svg>
+                                        저장하기
+                                    </div>
+                                    <span class="_3EHfk">
+                                        <a href="https://m.search.naver.com/search.naver?where=m&amp;query=%EB%B9%A0%EB%A5%B8%EA%B8%B8%EC%B0%BE%EA%B8%B0&amp;nso_path=placeType%5Eplace%3Bname%5E%3Baddress%5E%3Blatitude%5E%3Blongitude%5E%3Bcode%5E%7Ctype%5Eplace%3Bname%5E%EC%83%88%EC%9B%80%EB%B3%91%EC%9B%90%3Baddress%5E%3Bcode%5E13554953%3Blongitude%5E126.89765970000047%3Blatitude%5E37.47305459999992%7Cobjtype%5Epath%3Bby%5Epubtrans" class="_3HEBM">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="_3Ehff" role="presentation">
+                                                <path d="M11.95 3.81l-3.4 3.3-1.1-1.14L12.74.8l5.3 5.17-1.1 1.15-3.4-3.3v7.64h-9v8.26h-1.6V9.86h9V3.8z"></path>
+                                            </svg>
+                                            길찾기
+                                        </a>
+                                    </span>
+                                    <span class="_3EHfk">
+                                        <a href="#" id="_btp.share" class="_3HEBM naver-splugin spi_sns_share" role="button" target="_self" data-style="one-button" data-title="새움병원
+                                        서울 금천구 시흥대로139길 8" data-line-template-type="custom_web" data-line-title="새움병원" data-line-description="서울 금천구 시흥대로139길 8" data-kakaotalk-template-type="custom_web" data-kakaotalk-title="새움병원" data-kakaotalk-description="서울 금천구 시흥대로139길 8
+                                        방문자리뷰 122 · ★4.39 · 평일 09:00 - 18:00, 점심시간 13:00~14:00,토요일 09:00 - 13:00,일요일 휴무,공휴일 휴무" data-kakaotalk-image-url="https://search.pstatic.net/common/?autoRotate=true&amp;quality=100&amp;type=f640_380&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210430_59%2F1619768664339ODTSE_JPEG%2Fmsid0580vHR7EGi8cplyYPjp.jpg" data-kakaotalk-button-text="자세히 보기" data-url-extra="새움병원
+                                        서울 금천구 시흥대로139길 8" data-friend-display="on" data-kakaostory-display="off">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" class="_3Ehff" role="presentation">
+                                                <path d="M15.6 17.6H1.4V6.4h4.58V5H0v14h17v-4.35h-1.4v2.95zm-4.18-8.26h3.03v3.47L20 7.41 14.45 2v3.35h-3.03c-3.6 0-5.66 3.53-5.97 7.7 0 0 1.42-3.71 5.96-3.71z"></path>
+                                            </svg>
+                                            공유
+                                        </a>
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="_3wP2G ">
+                                <div class="_2jTv0">
+                                    <span class="_3EHfk _1cceq">
+                                        <a href="http://talk.naver.com/wc56fu?frm=mnmb&amp;frm=nmb_detail#nafullscreen" class="_3HEBM">
+                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="_3Ehff" role="presentation">
+                                                <path fill-rule="evenodd" d="M.37 14.91a.85.85 0 0 1-.37-.7V1.95C0 .87.88 0 1.95 0h10.56c.46 0 .9.16 1.26.45l1.11.85c.47.37.75.93.75 1.53v8.33a1.8 1.8 0 0 1-1.86 1.86H6.7c-1.23 0-2.28.65-3.1 1.55l-.96 1.04c-.16.2-.4.35-.65.39a.92.92 0 0 1-.5-.22l-1.12-.87zm.62-.57l1.04-1.12a4.87 4.87 0 0 1 3.55-1.69h7.07a1.01 1.01 0 0 0 1.12-1.11V1.86A1.01 1.01 0 0 0 12.65.74H1.86A1.01 1.01 0 0 0 .74 1.86v12.28c0 .12 0 .26.11.26a.19.19 0 0 0 .14-.06zm4.14-7.27V4.99a.84.84 0 0 0-1.7 0v2.08a.84.84 0 0 0 1.7 0zm5.9 0V4.99a.84.84 0 0 0-1.7 0v2.08a.84.84 0 1 0 1.7 0z"></path>
+                                            </svg>
+                                            <span class="_Rzfa">문의</span>
+                                        </a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <footer class="_2qDEf " role="contentinfo" data-nclicks-area-code="fot">
+                    <div class="_10P26">
+                        <a href="https://m.help.naver.com/support/service/main.nhn?serviceNo=7782" class="_1p1Og">고객센터</a>
+                        <a href="https://policy.naver.com/policy-mobile/term.html" class="_1p1Og">
+                            모바일 <!-- -->
+                            이용약관
+                        </a>
+                        <a href="https://m.place.naver.com/my/policy/visitorReview" class="_1p1Og">방문자리뷰 운영정책</a>
+                    </div>
+                    <div class="_11393">
+                        <a href="https://m.naver.com">
+                            <span class="place_blind">네이버</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 10" class="_3cWuW" role="presentation">
+                                <path fill-rule="evenodd" d="M14.96 0h3.52l3.92 10h-3.33l-.47-1.32h-3.75L14.38 10h-3.33l3.92-10zm1.76 3.15l-1.11 3.13h2.23l-1.11-3.13zM33.06 0h7.77v2.45h-4.6V3.8h4.55v2.4h-4.54v1.35h4.7V10h-7.88V0zM28.7 0h3.32l-3.91 10H24.6L20.69 0H24l2.35 6.58L28.7 0zM6.8 0h3.23v10H6.95L3.23 4.65V10H0V0h3.08L6.8 5.35V0zm40.49 4.66a1.05 1.05 0 0 0 0-2.11h-1.71v2.1h1.7zm2.17 1.9L51.98 10h-3.32l-1.91-2.8h-1.12V10H42.5V0h4.2c1.51 0 2.6.25 3.45.79.9.58 1.36 1.51 1.36 2.78 0 1.33-.59 2.39-1.75 2.87l-.3.13z"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <script src="https://m-place.pstatic.net/assets/shared/libs/shims/es2017.min.shim.20200709.js" defer></script>
+    <script src="https://m-place.pstatic.net/assets/shared/libs/shims/smoothscroll.shim.0529.js" defer></script>
+    <script>
+    document.getElementById('app-root').classList.add('place_didmount');
+    var naver = typeof naver === "object" ? naver : {};
+    naver.place = naver.place || {};
+    naver.place.salt = naver.place.salt || {};
+    naver.place.salt.config = naver.place.salt.config || {
+        "phase": "real",
+        "thumbnail": {
+            "https": "https://search.pstatic.net/common/"
+        },
+        "videoInfra": {
+            "serviceName": "place",
+            "script": "https://sstatic-rmcnmv.pstatic.net/js/webplayer_4.19.10.mo.7d4f84b5.min.js",
+            "serviceId": 2040,
+            "phase": "real"
+        },
+        "nidlogin": "https://nid.naver.com/nidlogin.login?svctype=262144",
+        "styleLoaderElemId": "place-style-loader",
+        "isNmap": false,
+        "isPcmap": false,
+        "isNxPc": false,
+        "isNpay": false,
+        "serverSide": null,
+        "domain": "https://m.place.naver.com",
+        "cdnOrigin": "https://m-place.pstatic.net",
+        "api": {
+            "origin": "https://api.place.naver.com",
+            "timeout": 5000
+        },
+        "socialPlugin": {
+            "hostname": "https://ssl.pstatic.net/spi",
+            "mobilePath": "/js/release/ko_KR/splugin.m.js",
+            "pcPath": "/js/release/ko_KR/splugin.js"
+        },
+        "reactionDomain": "https://common.like.naver.com",
+        "smartPlaceDomain": {
+            "mobile": "https://m.smartplace.naver.com"
+        },
+        "sogumDomain": {
+            "mobile": "https://m.store.naver.com",
+            "api": "https://m.store.naver.com/sogum/api"
+        },
+        "universalDomain": "https://nmap.place.naver.com",
+        "shareDomain": "https://m.place.naver.com",
+        "pcmapDomain": "https://map.naver.com",
+        "panorama": {
+            "streetViewUrl": "https://app.map.naver.com/panorama/"
+        },
+        "nxStaticMapUrlPrefix": "https://simg.pstatic.net/static.map/v2/map/staticmap.bin?crs=EPSG:4326",
+        "myplace": {
+            "origin": "https://m.place.naver.com",
+            "reviewTab": "https://m.place.naver.com/my?tab=review"
+        },
+        "staticMap": {
+            "https": "https://simg.pstatic.net/static.map/v2/map/staticmap.bin",
+            "version": "http://static.map.naver.net/lastversion"
+        },
+        "bookingUrl": {
+            "pc": "https://booking.naver.com",
+            "mobile": "https://m.booking.naver.com"
+        },
+        "nxDirectionsSearchUrlPrefix": {
+            "mobile": "https://m.search.naver.com/search.naver?where=m"
+        },
+        "pcmapTargetOrigin": "https://map.naver.com",
+        "vaccine": {
+            "hostname": "https://v-search.nid.naver.com",
+            "reservationPath": "/reservation/standby",
+            "alarmPath": "/register/standby"
+        },
+        "npay": {
+            "chat": {
+                "hostname": "https://talk.naver.com",
+                "serviceCode": "ct",
+                "partnerId": "wcaf33",
+                "defaultParams": "?front.footer=hide&front.setting=hide&front.home=hide#nafullscreen"
+            },
+            "menu": {
+                "hostname": "https://new-m.pay.naver.com",
+                "path": "/payservice"
+            }
+        },
+        "devTools": {
+            "isEnableApolloClientDevTools": false,
+            "isActiveSsr": true,
+            "sentry": {
+                "dsn": "https://17fe6794b964420199807554b9c55cc8@l.place.naver.com/sentry/2",
+                "environment": "real",
+                "debug": false,
+                "enabled": true
+            }
+        }
+    };
+    window.__APOLLO_STATE__ = {
+        "$ROOT_QUERY.accessor({\"businessId\":\"13554953\"})": {
+            "accessor": "",
+            "__typename": "Accessor"
+        },
+        "ROOT_QUERY": {
+            "accessor({\"businessId\":\"13554953\"})": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.accessor({\"businessId\":\"13554953\"})",
+                "typename": "Accessor"
+            },
+            "hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false})": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false})",
+                "typename": "HospitalDetailResult"
+            },
+            "panoramaThumbnail({\"input\":{\"businessId\":\"13554953\",\"height\":400,\"type\":\"thumbnail\",\"width\":800}})": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.panoramaThumbnail({\"input\":{\"businessId\":\"13554953\",\"height\":400,\"type\":\"thumbnail\",\"width\":800}})",
+                "typename": "PanoramaThumbnailResult"
+            },
+            "vaccineQuantity({\"input\":{\"vaccineOrganizationCode\":\"11207043\"}})": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.vaccineQuantity({\"input\":{\"vaccineOrganizationCode\":\"11207043\"}})",
+                "typename": "VaccineQuantityResult"
+            }
+        },
+        "HospitalBase:13554953": {
+            "id": "13554953",
+            "name": "새움병원",
+            "dbType": "drt",
+            "reviewSettings": {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.reviewSettings",
+                "typename": "ReviewSettings"
+            },
+            "description": "2010년 개원한 새움병원은 금천구 시흥대로 139길 8에 위치한 정형외과 입니다.\n정형외과, 신경외과, 내과, 신경과, 영상의학과, 마취통증의학과, 정신건강의학과\n19명 의료진의 협진을 통해 환자 각 1:1 맞춤 진료를 받으실 수 있습니다.\n\n★국내 최초로 무릎 관절경을 도입한 안진환 교수 초빙\n★진료과별 19인의 의료진 협진 시스템\n★관절내시경 수술 8000건 이상.(2019년 기준)\n★관절, 척추, 수부, 족부 각 부위별 특화치료\n★체계적인 환자 수술 전-후 관리\n★수준급의 의료장비 다수 보유 (MRI 3.0T 포함)\n★금천구에서 처음으로 간호간병 통합서비스 시행\n★활발한 지역사회 나눔활동을 시행\n\n허리, 목, 어깨, 무릎, 팔꿈치, 손목, 손가락, 발목, 발가락 등\n일반 질환부터 희귀 질환까지 치료!",
+            "road": "[지하철, 버스 이용]\n★2호선 구로디지털단지역 1번출구 -\u003E 버스 환승센터에서 51, 5617, 5627, 6635버스 -\u003E 문성초등학교 하차(1정거장)\n★1,7호선 가산디지털 단지역1번(1호선), 2번(7호선) 출구 -\u003E 금천03버스 -\u003E 독산고개입구 하차 -\u003E 큰길(시흥대로)로 나와 가구점과 우리은행 지나 도보 3분\n\n[자가용 이용]\n★안양쪽에서 오시는 경우 : 독산사거리에서 좌회전 -\u003E 첫번째 골목에서(독산1동 새마을금고) 우회전 -\u003E 약 100m 직진\n★강남, 사당, 신림쪽에서 오시는 경우 : 시흥IC에서 안양\u002F독산사거리 방면으로 우측방향 -\u003E 시흥대로를 따라 오시다 남문시장 건너편 SK주유소 뒤편\n★여의도 쪽에서 오시는 경우 : 대방역 사거리 지하차도 -\u003E 대방로 -\u003E 시흥대로",
+            "bookingBusinessId": null,
+            "bookingDisplayName": "방문",
+            "category": "정형외과",
+            "categoryCode": "223255",
+            "categoryCodeList": {
+                "type": "json",
+                "json": ["223175", "223176", "223187", "223255", "1004760", "1004452", "1004835", "1004836"]
+            },
+            "rcode": "09545102",
+            "streetPanorama": {
+                "type": "id",
+                "generated": false,
+                "id": "Panorama:fFpK7HHyBXN+v8FX\u002Fr9Psg==",
+                "typename": "Panorama"
+            },
+            "routeUrl": "https:\u002F\u002Fm.search.naver.com\u002Fsearch.naver?where=m&query=%EB%B9%A0%EB%A5%B8%EA%B8%B8%EC%B0%BE%EA%B8%B0&nso_path=placeType%5Eplace%3Bname%5E%3Baddress%5E%3Blatitude%5E%3Blongitude%5E%3Bcode%5E%7Ctype%5Eplace%3Bname%5E%EC%83%88%EC%9B%80%EB%B3%91%EC%9B%90%3Baddress%5E%3Bcode%5E13554953%3Blongitude%5E126.89765970000047%3Blatitude%5E37.47305459999992%7Cobjtype%5Epath%3Bby%5Epubtrans",
+            "virtualPhone": "",
+            "phone": "1577-7015",
+            "naverBookingUrl": null,
+            "naverBookingHubUrl": null,
+            "bookingHubButtonName": null,
+            "conveniences": {
+                "type": "json",
+                "json": ["주차", "발렛파킹", "무선 인터넷", "남\u002F녀 화장실 구분", "장애인 편의시설"]
+            },
+            "microReviews": null,
+            "themes": null,
+            "menuImages": null,
+            "menus": null,
+            "images": [{
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.images.0",
+                "typename": "Image"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.images.1",
+                "typename": "Image"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.images.2",
+                "typename": "Image"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.images.3",
+                "typename": "Image"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.images.4",
+                "typename": "Image"
+            }],
+            "broadcastInfos": null,
+            "detailPath": "\u002Fhospitals\u002Fdetail?id=13554953&query=%EC%83%88%EC%9B%80%EB%B3%91%EC%9B%90",
+            "isKtis": null,
+            "hasOfficialImages": true,
+            "imagesLastModified": "2021-05-14 17:57:38",
+            "imagesLastModifiedDate": "2021.05.14.",
+            "talktalkUrl": "http:\u002F\u002Ftalk.naver.com\u002Fwc56fu?frm=mnmb",
+            "chatBotUrl": null,
+            "promotionTitle": null,
+            "naverBookingPromotion": null,
+            "zoomLevel": null,
+            "mapUrl": "\u002Fhospitals\u002FdetailMap?id=13554953",
+            "giftCards": null,
+            "staticMapUrl": "https:\u002F\u002Fsimg.pstatic.net\u002Fstatic.map\u002Fv2\u002Fmap\u002Fstaticmap.bin?center=126.89765970000047%2C37.47305459999992&level=16&dataversion=162.69&caller=naver_mstore&markers=pos%3A126.89765970000047%2037.47305459999992%7Ccolor%3Ablue",
+            "roadAddress": "서울 금천구 시흥대로139길 8",
+            "address": "서울 금천구 독산동 150-7",
+            "cescoCheck": null,
+            "cescoLink": null,
+            "cescofsCheck": null,
+            "cescofsLink": null,
+            "moreBookingReviewsPath": null,
+            "moreUGCReviewsPath": "\u002Fhospitals\u002FfsasReviews?id=13554953&name=%EC%83%88%EC%9B%80%EB%B3%91%EC%9B%90",
+            "moreFsasReviewsPath": null,
+            "morePhotosPath": "\u002Fhospitals\u002Fphotos?id=13554953",
+            "keywords": {
+                "type": "json",
+                "json": ["금천구정형외과", "금천구신경외과", "구로구정형외과", "독산동정형외과", "어깨병원"]
+            },
+            "reportWrongInfoType": "type2",
+            "partnerInfo": null,
+            "businessHours": [{
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.businessHours.0",
+                "typename": "BusinessHour"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.businessHours.1",
+                "typename": "BusinessHour"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.businessHours.2",
+                "typename": "BusinessHour"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "HospitalBase:13554953.businessHours.3",
+                "typename": "BusinessHour"
+            }],
+            "coordinate": {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.coordinate",
+                "typename": "Coordinate"
+            },
+            "naverBlog": {
+                "type": "id",
+                "generated": false,
+                "id": "BaseNaverBlog:saeumforever",
+                "typename": "BaseNaverBlog"
+            },
+            "homepages": {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.homepages",
+                "typename": "Homepage"
+            },
+            "poiInfo": {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.poiInfo",
+                "typename": "PoiInfo"
+            },
+            "visitorReviewsTotal": 122,
+            "visitorReviewsScore": 4.39,
+            "is100YearCertified": null,
+            "siteId": "sp_9672546a430480",
+            "__typename": "HospitalBase",
+            "missingInfo": {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.missingInfo",
+                "typename": "MissingInfo"
+            },
+            "bookingButtonName": "예약"
+        },
+        "$HospitalBase:13554953.reviewSettings": {
+            "keyword": "(새움병원) & (금천구 | 독산동 | 정형외과) & \"새움병원\"",
+            "blog": 1,
+            "cafe": 1,
+            "showVisitorReviewScore": true,
+            "__typename": "ReviewSettings"
+        },
+        "Panorama:fFpK7HHyBXN+v8FX\u002Fr9Psg==": {
+            "id": "fFpK7HHyBXN+v8FX\u002Fr9Psg==",
+            "pan": "12.21",
+            "tilt": "21.68",
+            "lon": "126.8977654",
+            "lat": "37.4728371",
+            "__typename": "Panorama"
+        },
+        "HospitalBase:13554953.images.0": {
+            "origin": "https:\u002F\u002Fldb-phinf.pstatic.net\u002F20210430_59\u002F1619768664339ODTSE_JPEG\u002Fmsid0580vHR7EGi8cplyYPjp.jpg",
+            "number": null,
+            "infoTitle": "새움병원 업체등록사진",
+            "url": null,
+            "desc": null,
+            "width": 3381,
+            "height": 3381,
+            "source": null,
+            "__typename": "Image"
+        },
+        "HospitalBase:13554953.images.1": {
+            "origin": "https:\u002F\u002Fldb-phinf.pstatic.net\u002F20210419_143\u002F16188024040777V0j6_JPEG\u002FTr_BQ4ZsMgxuiaZm5FCNQi_R.jpg",
+            "number": null,
+            "infoTitle": "새움병원 업체등록사진",
+            "url": null,
+            "desc": null,
+            "width": 5855,
+            "height": 3903,
+            "source": null,
+            "__typename": "Image"
+        },
+        "HospitalBase:13554953.images.2": {
+            "origin": "https:\u002F\u002Fldb-phinf.pstatic.net\u002F20210419_48\u002F1618799738933f7Fmp_JPEG\u002FhL0jP1aWbQwphPjkhYQeMjrI.jpg",
+            "number": null,
+            "infoTitle": "새움병원 업체등록사진",
+            "url": null,
+            "desc": null,
+            "width": 5795,
+            "height": 3863,
+            "source": null,
+            "__typename": "Image"
+        },
+        "HospitalBase:13554953.images.3": {
+            "origin": "https:\u002F\u002Fldb-phinf.pstatic.net\u002F20210419_266\u002F1618799741282XimHX_JPEG\u002FsguH5oBebvR-LqQYhwBl2uHZ.jpg",
+            "number": null,
+            "infoTitle": "새움병원 업체등록사진",
+            "url": null,
+            "desc": null,
+            "width": 5155,
+            "height": 3282,
+            "source": null,
+            "__typename": "Image"
+        },
+        "HospitalBase:13554953.images.4": {
+            "origin": "https:\u002F\u002Fldb-phinf.pstatic.net\u002F20210514_290\u002F1620982650340W0yI9_JPEG\u002FaTK1ye2i2FaI06HlnqlrBUHb.jpg",
+            "number": null,
+            "infoTitle": "새움병원 업체등록사진",
+            "url": null,
+            "desc": null,
+            "width": 1383,
+            "height": 882,
+            "source": null,
+            "__typename": "Image"
+        },
+        "HospitalBase:13554953.businessHours.0": {
+            "index": 0,
+            "day": "평일",
+            "isDayOff": false,
+            "hourString": "평일 09:00 - 18:00",
+            "startTime": "09:00",
+            "endTime": "18:00",
+            "description": "점심시간 13:00~14:00",
+            "__typename": "BusinessHour"
+        },
+        "HospitalBase:13554953.businessHours.1": {
+            "index": 1,
+            "day": "토요일",
+            "isDayOff": false,
+            "hourString": "토요일 09:00 - 13:00",
+            "startTime": "09:00",
+            "endTime": "13:00",
+            "description": "",
+            "__typename": "BusinessHour"
+        },
+        "HospitalBase:13554953.businessHours.2": {
+            "index": 2,
+            "day": "일요일",
+            "isDayOff": true,
+            "hourString": "일요일 휴무",
+            "startTime": "00:00",
+            "endTime": "00:00",
+            "description": "",
+            "__typename": "BusinessHour"
+        },
+        "HospitalBase:13554953.businessHours.3": {
+            "index": 3,
+            "day": "공휴일",
+            "isDayOff": true,
+            "hourString": "공휴일 휴무",
+            "startTime": "00:00",
+            "endTime": "00:00",
+            "description": "",
+            "__typename": "BusinessHour"
+        },
+        "$HospitalBase:13554953.coordinate": {
+            "x": 126.89765970000047,
+            "y": 37.47305459999992,
+            "mapZoomLevel": 12,
+            "__typename": "Coordinate"
+        },
+        "BaseNaverBlog:saeumforever": {
+            "id": "saeumforever",
+            "categoryNo": "23",
+            "__typename": "BaseNaverBlog"
+        },
+        "$HospitalBase:13554953.homepages.etc.0": {
+            "url": "http:\u002F\u002Fcafe.naver.com\u002Fsaeumi",
+            "landingUrl": "http:\u002F\u002Fcafe.naver.com\u002Fsaeumi",
+            "type": "카페",
+            "order": 1,
+            "isDeadUrl": false,
+            "isRep": null,
+            "__typename": "HomepageRepr"
+        },
+        "$HospitalBase:13554953.homepages.etc.1": {
+            "url": "https:\u002F\u002Fwww.facebook.com\u002Fsaeumhospital\u002F",
+            "landingUrl": "https:\u002F\u002Fwww.facebook.com\u002Fsaeumhospital\u002F",
+            "type": "페이스북",
+            "order": 2,
+            "isDeadUrl": false,
+            "isRep": null,
+            "__typename": "HomepageRepr"
+        },
+        "$HospitalBase:13554953.homepages.etc.2": {
+            "url": "https:\u002F\u002Fwww.instagram.com\u002Fsaeumhospital\u002F",
+            "landingUrl": "https:\u002F\u002Fwww.instagram.com\u002Fsaeumhospital\u002F",
+            "type": "인스타그램",
+            "order": 3,
+            "isDeadUrl": false,
+            "isRep": null,
+            "__typename": "HomepageRepr"
+        },
+        "$HospitalBase:13554953.homepages": {
+            "etc": [{
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.homepages.etc.0",
+                "typename": "HomepageRepr"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.homepages.etc.1",
+                "typename": "HomepageRepr"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.homepages.etc.2",
+                "typename": "HomepageRepr"
+            }],
+            "repr": {
+                "type": "id",
+                "generated": true,
+                "id": "$HospitalBase:13554953.homepages.repr",
+                "typename": "HomepageRepr"
+            },
+            "__typename": "Homepage"
+        },
+        "$HospitalBase:13554953.homepages.repr": {
+            "url": "http:\u002F\u002Fwww.saeumhospital.kr\u002F",
+            "landingUrl": "http:\u002F\u002Fwww.saeumhospital.kr\u002F",
+            "isDeadUrl": false,
+            "type": "웹사이트",
+            "order": 0,
+            "isRep": null,
+            "__typename": "HomepageRepr"
+        },
+        "$HospitalBase:13554953.poiInfo": {
+            "polyline": null,
+            "polygon": null,
+            "__typename": "PoiInfo"
+        },
+        "$HospitalBase:13554953.missingInfo": {
+            "isBizHourMissing": false,
+            "isMenuImageMissing": false,
+            "isAccessorMissing": false,
+            "isDescriptionMissing": false,
+            "isConveniencesMissing": false,
+            "needLargeSuggestionBanner": false,
+            "__typename": "MissingInfo"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false})": {
+            "base": {
+                "type": "id",
+                "generated": false,
+                "id": "HospitalBase:13554953",
+                "typename": "HospitalBase"
+            },
+            "aiCall": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).aiCall",
+                "typename": "AiCall"
+            },
+            "cpImages({\"start\":0})": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).cpImages({\"start\":0})",
+                "typename": "CPImages"
+            },
+            "fsasReviews": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).fsasReviews",
+                "typename": "FsasReviewsResult"
+            },
+            "visitorReviewStats": null,
+            "kinQna": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna",
+                "typename": "KinQna"
+            },
+            "hospitalInfo": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo",
+                "typename": "HospitalInfo"
+            },
+            "recentBlogPost": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost",
+                "typename": "RecentBlogPost"
+            },
+            "subwayStations": [],
+            "busStations": [{
+                "type": "id",
+                "generated": false,
+                "id": "BusStation:102244",
+                "typename": "BusStation"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "BusStation:92211",
+                "typename": "BusStation"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "BusStation:102192",
+                "typename": "BusStation"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "BusStation:126470",
+                "typename": "BusStation"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "BusStation:102202",
+                "typename": "BusStation"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "BusStation:102260",
+                "typename": "BusStation"
+            }],
+            "vaccineQuantity": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).vaccineQuantity",
+                "typename": "VaccineQuantityDetailResult"
+            },
+            "vaccineOpeningHour": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).vaccineOpeningHour",
+                "typename": "VaccineOpeningHour"
+            },
+            "businessTools": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).businessTools",
+                "typename": "BusinessTools"
+            },
+            "__typename": "HospitalDetailResult"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).aiCall": {
+            "available": false,
+            "userAgreed": false,
+            "isPhoneValid": false,
+            "__typename": "AiCall"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).cpImages({\"start\":0})": {
+            "total": 0,
+            "images": [],
+            "__typename": "CPImages"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).fsasReviews": {
+            "total": 1421,
+            "maxItemCount": 150,
+            "items": [{
+                "type": "id",
+                "generated": false,
+                "id": "FsasReview:blog_S A E U M. H O S P I T A L_222432330445_봉천동정형외과, 손목을 돌릴 때 아프고 시큰거리네 삼각섬유연골파열... ",
+                "typename": "FsasReview"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "FsasReview:blog_새움병원입니다 : )_222433530021_난곡정형외과, 어깨 통증을 만드는 질환 중 하나 회전근개파열 .새움병원",
+                "typename": "FsasReview"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "FsasReview:blog_[서울 금천구 독산동] 새움병원 : 척추! 관절!_222431416530_독산새움병원 관절클리닉에서 팔꿈치 물혹 치료! '주두점액낭염'",
+                "typename": "FsasReview"
+            }],
+            "__typename": "FsasReviewsResult"
+        },
+        "FsasReview:blog_S A E U M. H O S P I T A L_222432330445_봉천동정형외과, 손목을 돌릴 때 아프고 시큰거리네 삼각섬유연골파열... ": {
+            "name": "S A E U M. H O S P I T A L",
+            "type": "blog",
+            "typeName": "블로그",
+            "url": "https:\u002F\u002Fm.blog.naver.com\u002Fsaeumns3\u002F222432330445",
+            "home": "https:\u002F\u002Fm.blog.naver.com\u002Fsaeumns3",
+            "id": "blog_S A E U M. H O S P I T A L_222432330445_봉천동정형외과, 손목을 돌릴 때 아프고 시큰거리네 삼각섬유연골파열... ",
+            "title": "봉천동정형외과, 손목을 돌릴 때 아프고 시큰거리네 삼각섬유연골파열... ",
+            "rank": "1",
+            "contents": "언제나 큰일 없이 건강하게 지내는 여러분을 위해 앞으로도 응원합니다 안녕히 주무셨나요? 오늘도 하루를 맞이할 수 있는 것에 감사함을 느끼는 마음과 함께 살아가셨으면 합니다. 거기에다가 건강함까지! 있다면... ",
+            "bySmartEditor3": false,
+            "hasNaverReservation": false,
+            "thumbnailUrl": "http:\u002F\u002Fblogfiles.naver.net\u002FMjAyMTA3MTVfMjgx\u002FMDAxNjI2MzEyMDA1Njk4.vsfVrGFEs8EAgvsLglMHYneB9ItdoDMMhDWDePEbhHEg.lDK_FF7C8G87yVeAxm66C4p-DXe2qWWTxRGVsJX-5xIg.PNG.saeumns3\u002F001.png#1080x1080",
+            "date": "1일 전",
+            "thumbnailCount": "19",
+            "isOfficial": false,
+            "isRepresentative": null,
+            "profileImageUrl": null,
+            "isVideoThumbnail": null,
+            "__typename": "FsasReview"
+        },
+        "FsasReview:blog_새움병원입니다 : )_222433530021_난곡정형외과, 어깨 통증을 만드는 질환 중 하나 회전근개파열 .새움병원": {
+            "name": "새움병원입니다 : )",
+            "type": "blog",
+            "typeName": "블로그",
+            "url": "https:\u002F\u002Fm.blog.naver.com\u002Fsaeumns\u002F222433530021",
+            "home": "https:\u002F\u002Fm.blog.naver.com\u002Fsaeumns",
+            "id": "blog_새움병원입니다 : )_222433530021_난곡정형외과, 어깨 통증을 만드는 질환 중 하나 회전근개파열 .새움병원",
+            "title": "난곡정형외과, 어깨 통증을 만드는 질환 중 하나 회전근개파열 .새움병원",
+            "rank": "2",
+            "contents": "여러분 건강에도 사랑을 주세요 건강에 관심을 가지고 꾸준히 관리를 해줘야 튼튼하고 오래 살 수 있겠죠? 우리 모두 건강관리에 힘써 건강하고 행복한 삶을 살아갈 수 있길 바랍니다! 건강해지기 위한 한 걸음으로... ",
+            "bySmartEditor3": false,
+            "hasNaverReservation": false,
+            "thumbnailUrl": "http:\u002F\u002Fblogfiles.naver.net\u002FMjAyMTA3MTZfMjgy\u002FMDAxNjI2Mzk5MTM3Njcz.9aNoodyEX9XypBGK0jWbPt2o0etTYJO-SDITSVf8lHgg.HvAqwTbkxq4Nm82-JniHWCemaKZ3OdtV6hQnL363_O8g.PNG.saeumns\u002F001.png#1080x1080",
+            "date": "4시간 전",
+            "thumbnailCount": "19",
+            "isOfficial": false,
+            "isRepresentative": null,
+            "profileImageUrl": null,
+            "isVideoThumbnail": null,
+            "__typename": "FsasReview"
+        },
+        "FsasReview:blog_[서울 금천구 독산동] 새움병원 : 척추! 관절!_222431416530_독산새움병원 관절클리닉에서 팔꿈치 물혹 치료! '주두점액낭염'": {
+            "name": "[서울 금천구 독산동] 새움병원 : 척추! 관절!",
+            "type": "blog",
+            "typeName": "블로그",
+            "url": "https:\u002F\u002Fm.blog.naver.com\u002Fbluereborn\u002F222431416530",
+            "home": "https:\u002F\u002Fm.blog.naver.com\u002Fbluereborn",
+            "id": "blog_[서울 금천구 독산동] 새움병원 : 척추! 관절!_222431416530_독산새움병원 관절클리닉에서 팔꿈치 물혹 치료! '주두점액낭염'",
+            "title": "독산새움병원 관절클리닉에서 팔꿈치 물혹 치료! '주두점액낭염'",
+            "rank": "3",
+            "contents": "독산새움병원 관절클리닉에서 팔꿈치 물혹 치료! '주두점액낭염' 안녕하세요!! 관절 여러 부위에 생길수 있는 점액낭염 중에서 팔꿈치에 생기는 주두점액낭염에 대해서 보려합니다. 독산새움병원 관절클리닉에서 부위별... ",
+            "bySmartEditor3": false,
+            "hasNaverReservation": false,
+            "thumbnailUrl": "http:\u002F\u002Fblogfiles.naver.net\u002FMjAyMTA3MTRfMTUy\u002FMDAxNjI2MjQ2NDY2MTU1.nXcyNljg3Xt7f-pdyGcskkTnQq091Dq8IFex0YDFUFIg.1UB_1AQukdeP866N6M8z5huLb2QfTXOL3IxKqsOCCogg.PNG.bluereborn\u002F%C1%D6%B5%CE%C1%A1%BE%D7_%281%29.png#1080x1080",
+            "date": "2일 전",
+            "thumbnailCount": "14",
+            "isOfficial": false,
+            "isRepresentative": null,
+            "profileImageUrl": null,
+            "isVideoThumbnail": null,
+            "__typename": "FsasReview"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna.answerList.0": {
+            "detailUrl": "http:\u002F\u002Fkin.naver.com\u002Fqna\u002Fdetail.nhn?docId=289076242&answerNo=1&dirId=70106",
+            "writeTime": "2017-11-28 15:28:44.0",
+            "contents": "안녕하세요. 하이닥-네이버 지식iN 상담의 정우성 입니다. 팔꿈치 질환으로 테니스엘보우, 골프엘보우가 있습니다. 팔꿈치부터 손목까지 이어진 힘줄이 있는데 이 힘줄이 과도하게,,반복적인 사용으로 인해서 조직이 변성되어 통증을 유발하고 팔을 사용하기 어려워지는 것을 말합니다. 테니스엘보우는 팔의 바깥쪽에서 발생한 경우이고 골프엘보우는 내측에서 발생한 경우를 말...",
+            "questionTitle": "양팔 모두 팔꿈치 주변이 아파요 (사진있음)",
+            "thumbnailUrl": null,
+            "dirId": 70106,
+            "__typename": "KinQnaAnswerList"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna.answerList.1": {
+            "detailUrl": "http:\u002F\u002Fkin.naver.com\u002Fqna\u002Fdetail.nhn?docId=288172994&answerNo=1&dirId=70106",
+            "writeTime": "2017-11-13 12:00:27.0",
+            "contents": "안녕하세요. 하이닥-네이버 지식iN 상담의 정우성 입니다. 손은 많이 쓰시는 만큼 통증을 호소하시는 분들이 많습니다. 증상이 오래 되셨다면 수부를 전문적으로 보는 정형외과쪽에서 검사&진료를 받아 보시는 것을 추천해드립니다. 손목질환은 여러가지가 있습니다. 대표적인 질환별로 증상을 알려드리니 참고하시길 바랍니다. 삼각섬유연골(TFCC) 파열 1. 손목...",
+            "questionTitle": "손목이 너무나 아픕니다",
+            "thumbnailUrl": null,
+            "dirId": 70106,
+            "__typename": "KinQnaAnswerList"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna.answerList.2": {
+            "detailUrl": "http:\u002F\u002Fkin.naver.com\u002Fqna\u002Fdetail.nhn?docId=288246245&answerNo=1&dirId=70106",
+            "writeTime": "2017-11-13 11:57:30.0",
+            "contents": "안녕하세요. 하이닥-네이버 지식iN 상담의 정우성 입니다. 어깨관절와순은 평소 어꺠나 팔이 움직일 때 근육과 관절막 등이 관절과 잘 부탁되어 있도록 도와 관절의 안정성을 유지시켜주는 역할을 합니다. 이런 관절와순이 파열될 경우엔 극심한 통증과 어깨가 탈구되거나 팔을 움직이기 힘들어지게 됩니다. 증상은 갑작스런 통증과 함께 어꺠가 무겁고 불안정하며 심한 경우...",
+            "questionTitle": "어깨 관절와순",
+            "thumbnailUrl": null,
+            "dirId": 70106,
+            "__typename": "KinQnaAnswerList"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna": {
+            "answerList": [{
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna.answerList.0",
+                "typename": "KinQnaAnswerList"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna.answerList.1",
+                "typename": "KinQnaAnswerList"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).kinQna.answerList.2",
+                "typename": "KinQnaAnswerList"
+            }],
+            "answerCount": 91,
+            "profileUrl": "http:\u002F\u002Fkin.naver.com\u002Fprofile\u002Findex.nhn?u=40XB1rA6GjeWCzUzpLkkY6OF4Wfhz4fmXzZVPGH79T8%3D",
+            "__typename": "KinQna"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo": {
+            "nightChildTreat": "",
+            "dayERTel": "",
+            "isDayERAvailable": false,
+            "nightERTel": "",
+            "isNightERAvailable": false,
+            "lunchSat": "",
+            "lunchWeek": "",
+            "holidayTreat": "",
+            "sundayTreat": "",
+            "saturdayHours": "",
+            "weekdayHours": "",
+            "subjects": null,
+            "specialOperations": {
+                "type": "json",
+                "json": []
+            },
+            "specialSubjects": {
+                "type": "json",
+                "json": []
+            },
+            "specialEquipments": [{
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.specialEquipments.0",
+                "typename": "NameCount"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.specialEquipments.1",
+                "typename": "NameCount"
+            }],
+            "processedSubjects": {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects",
+                "typename": "ProcessedSubjects"
+            },
+            "__typename": "HospitalInfo"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.specialEquipments.0": {
+            "count": 2,
+            "name": "MRI",
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.specialEquipments.1": {
+            "count": 1,
+            "name": "CT",
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.0": {
+            "name": "내과",
+            "count": 2,
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.1": {
+            "name": "신경과",
+            "count": 1,
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.2": {
+            "name": "정신건강의학과",
+            "count": 1,
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.3": {
+            "name": "정형외과",
+            "count": 8,
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.4": {
+            "name": "신경외과",
+            "count": 2,
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.5": {
+            "name": "마취통증의학과",
+            "count": 2,
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.6": {
+            "name": "영상의학과",
+            "count": 2,
+            "__typename": "NameCount"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects": {
+            "specialties": [{
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.0",
+                "typename": "NameCount"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.1",
+                "typename": "NameCount"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.2",
+                "typename": "NameCount"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.3",
+                "typename": "NameCount"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.4",
+                "typename": "NameCount"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.5",
+                "typename": "NameCount"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).hospitalInfo.processedSubjects.specialties.6",
+                "typename": "NameCount"
+            }],
+            "others": [],
+            "__typename": "ProcessedSubjects"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost": {
+            "isPostExists": true,
+            "postList": [{
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost.postList.0",
+                "typename": "BlogPost"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost.postList.1",
+                "typename": "BlogPost"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost.postList.2",
+                "typename": "BlogPost"
+            }],
+            "__typename": "RecentBlogPost"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost.postList.0": {
+            "title": "오십견수술 꼭 필요할까? [대림동정형외과]",
+            "addDate": "2021.04.07",
+            "linkUrl": null,
+            "thumbnailUrl": "https:\u002F\u002Fsearch.pstatic.net\u002Fcommon\u002F?autoRotate=true&quality=95&type=f160_160&src=http%3A%2F%2Fblogthumb2.naver.net%2FMjAyMTA0MDdfOTcg%2FMDAxNjE3NzU2NjMzMDIx.6cAKAbicj0r9VjJC9W8m1roqSF6S2nrBmFaWQ3Q0Gosg.35XZt_ZpNH6sOU71JUpHkgw3pAy03euTUHoxt1RLyOgg.JPEG.saeumforever%2F1_%25BE%25EE%25B1%25FA%25BF%25C0%25BD%25CA%25B0%25DF.jpg",
+            "blogId": "saeumforever",
+            "logNo": "222301594172",
+            "__typename": "BlogPost"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost.postList.1": {
+            "title": "겨울철 조심해야 하는 고관절골절! [새움병원]",
+            "addDate": "2021.01.28",
+            "linkUrl": null,
+            "thumbnailUrl": "https:\u002F\u002Fsearch.pstatic.net\u002Fcommon\u002F?autoRotate=true&quality=95&type=f160_160&src=http%3A%2F%2Fblogthumb2.naver.net%2FMjAyMDEyMDRfOTIg%2FMDAxNjA3MDQ0MzI2Mzc3.4b8J791cP88bhH7JOUHlhIQ-1va_z-FKdLbKzOFHrOUg.AGV5-ZeNYwNpgFiGfflE2P5mWY4nTkP0CAO7YtZiNnog.JPEG.saeumforever%2F%25B0%25ED%25B0%25FC%25C0%25FD%25B0%25F1%25C0%25FD.jpg",
+            "blogId": "saeumforever",
+            "logNo": "222223136153",
+            "__typename": "BlogPost"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).recentBlogPost.postList.2": {
+            "title": "무릎물혹, 베이커낭종 의심해보세요 [독산역정형외과]",
+            "addDate": "2021.01.14",
+            "linkUrl": null,
+            "thumbnailUrl": "https:\u002F\u002Fsearch.pstatic.net\u002Fcommon\u002F?autoRotate=true&quality=95&type=f160_160&src=http%3A%2F%2Fblogthumb2.naver.net%2FMjAyMTAxMTRfMTYg%2FMDAxNjEwNTg5MjE4NjAy.OA9ZJ5EyM0cDw9miby5NoV5PJFbChNRkiORAOdtLKmog.aD4jez9YpLubqa-LcxfYPGBqFjhI70qk1pvSlSAsGhMg.JPEG.saeumforever%2F%25BA%25A3%25C0%25CC%25C4%25BF%25B3%25B6%25C1%25BE.jpg",
+            "blogId": "saeumforever",
+            "logNo": "222206973932",
+            "__typename": "BlogPost"
+        },
+        "BusStation:102244": {
+            "id": "102244",
+            "name": "독산사거리.한국전력구로금천지사",
+            "lat": 37.472097,
+            "lng": 126.897998,
+            "walkTime": 2,
+            "innerRoutes": {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102244.innerRoutes",
+                "typename": "InnerRoutes"
+            },
+            "__typename": "BusStation"
+        },
+        "$BusStation:102244.innerRoutes.routeType.0": {
+            "type": "12",
+            "typeName": "지선",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1127",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1139",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "InnerRoute:1127": {
+            "id": "1127",
+            "name": "5535",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1139": {
+            "id": "1139",
+            "name": "5621",
+            "__typename": "InnerRoute"
+        },
+        "$BusStation:102244.innerRoutes.routeType.1": {
+            "type": "3",
+            "typeName": "마을",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1543",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "InnerRoute:1543": {
+            "id": "1543",
+            "name": "금천06",
+            "__typename": "InnerRoute"
+        },
+        "$BusStation:102244.innerRoutes": {
+            "routeType": [{
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102244.innerRoutes.routeType.0",
+                "typename": "RouteType"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102244.innerRoutes.routeType.1",
+                "typename": "RouteType"
+            }],
+            "__typename": "InnerRoutes"
+        },
+        "BusStation:92211": {
+            "id": "92211",
+            "name": "문성초등학교",
+            "lat": 37.473946,
+            "lng": 126.898152,
+            "walkTime": 2,
+            "innerRoutes": {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:92211.innerRoutes",
+                "typename": "InnerRoutes"
+            },
+            "__typename": "BusStation"
+        },
+        "$BusStation:92211.innerRoutes.routeType.0": {
+            "type": "3",
+            "typeName": "마을",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1543",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "$BusStation:92211.innerRoutes": {
+            "routeType": [{
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:92211.innerRoutes.routeType.0",
+                "typename": "RouteType"
+            }],
+            "__typename": "InnerRoutes"
+        },
+        "BusStation:102192": {
+            "id": "102192",
+            "name": "서울디자인직업전문학교",
+            "lat": 37.472518,
+            "lng": 126.895821,
+            "walkTime": 3,
+            "innerRoutes": {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102192.innerRoutes",
+                "typename": "InnerRoutes"
+            },
+            "__typename": "BusStation"
+        },
+        "$BusStation:102192.innerRoutes.routeType.0": {
+            "type": "3",
+            "typeName": "마을",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1543",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "$BusStation:102192.innerRoutes": {
+            "routeType": [{
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102192.innerRoutes.routeType.0",
+                "typename": "RouteType"
+            }],
+            "__typename": "InnerRoutes"
+        },
+        "BusStation:126470": {
+            "id": "126470",
+            "name": "문성초등학교(중)",
+            "lat": 37.474012,
+            "lng": 126.898456,
+            "walkTime": 4,
+            "innerRoutes": {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:126470.innerRoutes",
+                "typename": "InnerRoutes"
+            },
+            "__typename": "BusStation"
+        },
+        "$BusStation:126470.innerRoutes.routeType.0": {
+            "type": "1",
+            "typeName": "일반",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:6015",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:6071",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:6010",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:6001",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:13117",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:9660",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:11518",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "InnerRoute:6015": {
+            "id": "6015",
+            "name": "1",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:6071": {
+            "id": "6071",
+            "name": "5",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:6010": {
+            "id": "6010",
+            "name": "9",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:6001": {
+            "id": "6001",
+            "name": "51",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:13117": {
+            "id": "13117",
+            "name": "388",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:9660": {
+            "id": "9660",
+            "name": "900",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:11518": {
+            "id": "11518",
+            "name": "5602",
+            "__typename": "InnerRoute"
+        },
+        "$BusStation:126470.innerRoutes.routeType.1": {
+            "type": "11",
+            "typeName": "간선",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:878",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1087",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1094",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:607",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "InnerRoute:878": {
+            "id": "878",
+            "name": "150",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1087": {
+            "id": "1087",
+            "name": "500",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1094": {
+            "id": "1094",
+            "name": "505",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:607": {
+            "id": "607",
+            "name": "N65",
+            "__typename": "InnerRoute"
+        },
+        "$BusStation:126470.innerRoutes.routeType.2": {
+            "type": "12",
+            "typeName": "지선",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1122",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1123",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1135",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1444",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1142",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1143",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1144",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1145",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1126",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1153",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1220",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "InnerRoute:1122": {
+            "id": "1122",
+            "name": "5530",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1123": {
+            "id": "1123",
+            "name": "5531",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1135": {
+            "id": "1135",
+            "name": "5617",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1444": {
+            "id": "1444",
+            "name": "5623",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1142": {
+            "id": "1142",
+            "name": "5624",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1143": {
+            "id": "1143",
+            "name": "5625",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1144": {
+            "id": "1144",
+            "name": "5626",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1145": {
+            "id": "1145",
+            "name": "5627",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1126": {
+            "id": "1126",
+            "name": "5634",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1153": {
+            "id": "1153",
+            "name": "5713",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1220": {
+            "id": "1220",
+            "name": "6635",
+            "__typename": "InnerRoute"
+        },
+        "$BusStation:126470.innerRoutes": {
+            "routeType": [{
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:126470.innerRoutes.routeType.0",
+                "typename": "RouteType"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:126470.innerRoutes.routeType.1",
+                "typename": "RouteType"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:126470.innerRoutes.routeType.2",
+                "typename": "RouteType"
+            }],
+            "__typename": "InnerRoutes"
+        },
+        "BusStation:102202": {
+            "id": "102202",
+            "name": "독산사거리",
+            "lat": 37.471858,
+            "lng": 126.896555,
+            "walkTime": 4,
+            "innerRoutes": {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102202.innerRoutes",
+                "typename": "InnerRoutes"
+            },
+            "__typename": "BusStation"
+        },
+        "$BusStation:102202.innerRoutes.routeType.0": {
+            "type": "12",
+            "typeName": "지선",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1443",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1148",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "InnerRoute:1443": {
+            "id": "1443",
+            "name": "5618",
+            "__typename": "InnerRoute"
+        },
+        "InnerRoute:1148": {
+            "id": "1148",
+            "name": "5630",
+            "__typename": "InnerRoute"
+        },
+        "$BusStation:102202.innerRoutes.routeType.1": {
+            "type": "3",
+            "typeName": "마을",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1543",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "$BusStation:102202.innerRoutes": {
+            "routeType": [{
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102202.innerRoutes.routeType.0",
+                "typename": "RouteType"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102202.innerRoutes.routeType.1",
+                "typename": "RouteType"
+            }],
+            "__typename": "InnerRoutes"
+        },
+        "BusStation:102260": {
+            "id": "102260",
+            "name": "남문시장.청춘빌딩",
+            "lat": 37.473121,
+            "lng": 126.898662,
+            "walkTime": 5,
+            "innerRoutes": {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102260.innerRoutes",
+                "typename": "InnerRoutes"
+            },
+            "__typename": "BusStation"
+        },
+        "$BusStation:102260.innerRoutes.routeType.0": {
+            "type": "12",
+            "typeName": "지선",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1122",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1127",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1139",
+                "typename": "InnerRoute"
+            }, {
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1144",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "$BusStation:102260.innerRoutes.routeType.1": {
+            "type": "3",
+            "typeName": "마을",
+            "innerRoute": [{
+                "type": "id",
+                "generated": false,
+                "id": "InnerRoute:1543",
+                "typename": "InnerRoute"
+            }],
+            "__typename": "RouteType"
+        },
+        "$BusStation:102260.innerRoutes": {
+            "routeType": [{
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102260.innerRoutes.routeType.0",
+                "typename": "RouteType"
+            }, {
+                "type": "id",
+                "generated": true,
+                "id": "$BusStation:102260.innerRoutes.routeType.1",
+                "typename": "RouteType"
+            }],
+            "__typename": "InnerRoutes"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).vaccineQuantity": {
+            "vaccineOrganizationCode": "11207043",
+            "__typename": "VaccineQuantityDetailResult"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).vaccineOpeningHour": {
+            "startTime": "15:00",
+            "endTime": "17:00",
+            "isDayOff": false,
+            "standardTime": "7월 16일",
+            "__typename": "VaccineOpeningHour"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).businessTools.tools.0": {
+            "type": "smartCall",
+            "title": "스마트콜",
+            "countInString": "50만",
+            "description": "전화를 대신 받고 응대까지 해드려요!",
+            "link": "https:\u002F\u002Ftv.naver.com\u002Fv\u002F2015533",
+            "using": false,
+            "__typename": "BusinessTool"
+        },
+        "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).businessTools": {
+            "tools": [{
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.hospital({\"deviceType\":\"mobile\",\"id\":\"13554953\",\"isNx\":false}).businessTools.tools.0",
+                "typename": "BusinessTool"
+            }],
+            "hideAnnouncement": true,
+            "__typename": "BusinessTools"
+        },
+        "$ROOT_QUERY.panoramaThumbnail({\"input\":{\"businessId\":\"13554953\",\"height\":400,\"type\":\"thumbnail\",\"width\":800}})": {
+            "url": "https:\u002F\u002Fapis.naver.com\u002Fplace\u002Fpanorama\u002Fthumbnail\u002F13554953\u002F0?width=800&height=400&msgpad=1626417587383&md=BI0cR2TarfExeHJ2PkJIBEFrpO0%3D",
+            "__typename": "PanoramaThumbnailResult"
+        },
+        "$ROOT_QUERY.vaccineQuantity({\"input\":{\"vaccineOrganizationCode\":\"11207043\"}})": {
+            "quantity": "0",
+            "quantityStatus": "empty",
+            "vaccineLastSave": 1626417582116,
+            "isUpdateDelayed": false,
+            "vaccineType": null,
+            "totalQuantity": 0,
+            "totalQuantityStatus": "empty",
+            "startTime": "1500",
+            "endTime": "1700",
+            "list": [{
+                "type": "id",
+                "generated": true,
+                "id": "$ROOT_QUERY.vaccineQuantity({\"input\":{\"vaccineOrganizationCode\":\"11207043\"}}).list.0",
+                "typename": "VaccineQuantity"
+            }],
+            "__typename": "VaccineQuantityResult"
+        },
+        "$ROOT_QUERY.vaccineQuantity({\"input\":{\"vaccineOrganizationCode\":\"11207043\"}}).list.0": {
+            "quantity": 0,
+            "quantityStatus": "empty",
+            "vaccineType": "화이자",
+            "__typename": "VaccineQuantity"
+        }
+    };
+    window.__PLACE_STATE__ = {
+        "locale": "ko",
+        "localeResources": {
+            "ko": {
+                "translation": {
+                    "home": "홈",
+                    "feed": "소식",
+                    "emptyFeed": "소식",
+                    "menu": "메뉴",
+                    "emptyMenu": "메뉴",
+                    "review": "리뷰",
+                    "photo": "사진",
+                    "location": "지도",
+                    "around": "주변",
+                    "amusement": "즐길거리",
+                    "room": "객실",
+                    "price": "가격",
+                    "emptyPrice": "가격",
+                    "stylist": "스타일리스트",
+                    "style": "시술",
+                    "styleinfo": "시술정보",
+                    "shoppingProduction": "상품",
+                    "bookingDeliveryItem": "상품",
+                    "traditionalMarket": "장보기",
+                    "oilPrice": "유가정보",
+                    "ticket": "티켓",
+                    "ncr": "공연·행사",
+                    "innerBusiness": "내부시설",
+                    "booking": "예약",
+                    "emptyBooking": "예약",
+                    "booking_room": "객실 예약",
+                    "booking_ticket": "예매",
+                    "navi_start": "출발",
+                    "navi_destination": "도착",
+                    "blog": "블로그",
+                    "blog_review": "블로그리뷰",
+                    "also_searched_place": "함께 많이 찾아본 곳",
+                    "related_link": "관련 링크",
+                    "naver_search_link": "통합검색 결과보기",
+                    "order": "주문",
+                    "orderer": "주문자",
+                    "orderer_review": "주문자{{separator}}리뷰",
+                    "booking_review": "예약자 리뷰",
+                    "customer": "예약자",
+                    "customer_review": "예약자{{separator}}리뷰",
+                    "book_and_order": "예약·주문",
+                    "book_and_order_review": "예약·주문 리뷰",
+                    "booking_and_qna": "예약 및 이용 안내",
+                    "bookmark": "저장하기",
+                    "route": "길찾기",
+                    "share": "공유",
+                    "address": "주소",
+                    "qna": "문의",
+                    "road_address": "도로명",
+                    "old_address": "지번",
+                    "clipboard": "복사",
+                    "map": "지도",
+                    "navigation": "내비게이션",
+                    "roadview": "거리뷰",
+                    "show_map": "지도보기",
+                    "show_list": "목록보기",
+                    "show_more": "더보기",
+                    "services": "일반예약상품",
+                    "review_photos": "예약자 사진",
+                    "less": "접기",
+                    "saved": "저장됨",
+                    "save": "저장",
+                    "transit": "대중교통",
+                    "car": "자동차",
+                    "walk": "도보",
+                    "prev": "이전",
+                    "next": "다음",
+                    "booking_pickup": "포장예약",
+                    "delivery": "배달",
+                    "delivery_preparing": "배달준비중",
+                    "delivery_closed": "배달종료",
+                    "standard": "기본",
+                    "call": "전화",
+                    "details": "소개",
+                    "unfold": "펼쳐보기",
+                    "menu_table": "가격표",
+                    "view_images": "이미지로 보기",
+                    "free": "무료",
+                    "page": "페이지",
+                    "when": "기간",
+                    "rates": "요금",
+                    "host": "주최",
+                    "prices": "가격비교",
+                    "exhibitions": "전시",
+                    "event_exhibitions": "전시·행사",
+                    "event_festival": "축제·행사",
+                    "visit": "방문",
+                    "visitor": "방문자",
+                    "visitor_review": "방문자{{separator}}리뷰",
+                    "ticketer": "예매자",
+                    "ticketer_review": "예매자{{separator}}리뷰",
+                    "nPayPromotion": "N예약 혜택",
+                    "nDeliveryPromotion": "N배달 혜택",
+                    "waiting": "대기현황",
+                    "michelin": "미쉐린 가이드",
+                    "receipt": "영수증",
+                    "recentlyBooked": "최근 {{text}}명 예약",
+                    "krw": "{{text}}원",
+                    "all_review": "전체 리뷰",
+                    "by_latest": "최신순",
+                    "by_rating": "평점순",
+                    "highest_rated": "평점높은순",
+                    "lowest_rated": "평점낮은순",
+                    "set_search_location": "검색 위치 설정",
+                    "centerBy_map": "현재 지도 중심",
+                    "centerBy_my": "내 위치 중심",
+                    "sortBy": "정렬 기준",
+                    "sortBy_precision": "관련도순",
+                    "sortBy_reviewCount": "리뷰순",
+                    "sortBy_distance": "거리순",
+                    "sortBy_price": "가격순",
+                    "cancel": "취소",
+                    "smartOrder": "스마트주문",
+                    "gift": "선물하기",
+                    "michelin_guide": "미쉐린 가이드 서울",
+                    "chefs_commitments": "셰프와 레스토랑의 다짐",
+                    "popular_menu": "인기메뉴"
+                }
+            }
+        },
+        "query": {
+            "entry": "ple"
+        }
+    };
+    window.__LOCATION_STATE__ = {} || {};
+
+
+
+    var g_ssc = "Mstore.hospital";
+    var ccsrv = "cc.naver.com";
+    var g_sid = "51BUCjInowmNgj48/YcFVMIf";
+    window.nsc = g_ssc;
+    window.g_sid = g_sid;
+    </script>
+    <script src="https://m-place.pstatic.net/assets/shared/libs/basic/classlist-polyfill-1.2.min.js" defer></script>
+    <script src="https://m-place.pstatic.net/assets/shared/libs/basic/require-2.3.5.min.js" defer></script>
+    <script>
+    (function() {
+        document.write('<script src="https://m-place.pstatic.net/assets/shared/libs/lazy/nclk-0.4.5.min.js" defer><\/script>');
+    }());
+    </script>
+    <script>
+    (function() {
+        document.write('<script id="naver-splugin-sdk" type="text/javascript" charSet="utf-8" src="https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.m.js?20210716" defer><\/script>');
+    }());
+    </script>
+    <script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json">
+    [1, 2, 3, 0, 29]
+    </script>
+    <script defer data-chunk="hospitalClient_main" src="https://m-place.pstatic.net/assets/deploy/js/deploy.hospitalClient_main.710b9c34e262ffad91df.js"></script>
+    <script defer data-chunk="hospitalDetail" src="https://m-place.pstatic.net/assets/deploy/vendors~SmartOrderList~accommodationDetail~accommodationList~accommodationPcmapList~beautyDetail~bea~b0b9f03e.bundle.710b9c34e262ffad91df.js"></script>
+    <script defer data-chunk="hospitalDetail" src="https://m-place.pstatic.net/assets/deploy/vendors~SmartOrderList~accommodationDetail~accommodationList~beautyDetail~beautyList~cvsDetail~cvsLi~4672db51.bundle.710b9c34e262ffad91df.js"></script>
+    <script defer data-chunk="hospitalDetail" src="https://m-place.pstatic.net/assets/deploy/vendors~ScrollAdaptableMapViewMode~SmartOrderList~accommodationDetail~accommodationList~accommodatio~7c925045.bundle.710b9c34e262ffad91df.js"></script>
+    <script defer data-chunk="hospitalDetail" src="https://m-place.pstatic.net/assets/deploy/SmartOrderList~accommodationDetail~accommodationList~accommodationPcmapList~beautyDetail~beautyList~~04e9cb96.bundle.710b9c34e262ffad91df.js"></script>
+    <script defer data-chunk="hospitalDetail" src="https://m-place.pstatic.net/assets/deploy/hospitalDetail.bundle.710b9c34e262ffad91df.js"></script>
+    <script src="https://ssl.pstatic.net/adimg3.search/adpost/js/ad.js" defer></script>
+</body>
+</html>
+
